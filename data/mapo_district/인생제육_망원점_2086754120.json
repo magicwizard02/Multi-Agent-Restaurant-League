@@ -1,0 +1,42 @@
+{
+    "restaurant_info": {
+        "name": "인생제육 망원점",
+        "category": "육류,고기요리",
+        "address": "서울 마포구 성산동 293-2 1층 B호",
+        "road_address": "서울 마포구 성미산로 12 1층 B호(성산동)",
+        "phone": "0507-1451-0732",
+        "visitor_review_count": 1,
+        "blog_review_count": 0,
+        "booking_available": true,
+        "business_hours": null,
+        "additional_info": {
+            "편의시설": [
+                "포장",
+                "배달",
+                "방문접수/출장",
+                "예약",
+                "간편결제"
+            ],
+            "결제수단": [
+                "간편결제",
+                "고유가 피해지원금 (신용·체크카드)"
+            ],
+            "찾아오는길_및_주차안내": "※ 도보 이용시 (망원역 5분 이내)\n\n1. 망원역 1번 출구로 나오세요.\n2. 상암동 방향으로 성미산로를 따라 직진합니다.\n3. 약 5분 정도 걸어오시면 마포구 성미산로 12 인근에 인생제육 망원점이 있습니다.\n\n망원역, 망원시장, 월드컵시장, 성산동 생활권에서 방문하기 편한 위치입니다."
+        }
+    },
+    "review_stats": {
+        "total_reviews_on_naver": 1,
+        "total_extracted_reviews": 1
+    },
+    "reviews": [
+        {
+            "id": "6a112bfe692dbf5b8e6d11af",
+            "author": "여신아테나",
+            "rating": null,
+            "body": "첫방문 첫후기 적습니다\n\n사장님 두분 친절하시공 이왕드실거 된장이랑 드세요 푸짐하고 불맛제육 마싯정\n\n담에 재방문 확정♡♡♡",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        }
+    ]
+}
