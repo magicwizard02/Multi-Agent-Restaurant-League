@@ -1,0 +1,1829 @@
+{
+    "restaurant_info": {
+        "name": "태용불고기 용산",
+        "category": "육류,고기요리",
+        "address": "서울 용산구 한강로3가 40-499",
+        "road_address": "서울 용산구 한강대로15길 33-20 1층",
+        "phone": "0507-1319-7942",
+        "visitor_review_count": 171,
+        "blog_review_count": 152,
+        "booking_available": false,
+        "business_hours": null,
+        "additional_info": {
+            "편의시설": [
+                "단체 이용 가능",
+                "포장"
+            ],
+            "결제수단": [
+                "고유가 피해지원금 (신용·체크카드)"
+            ],
+            "찾아오는길_및_주차안내": ""
+        }
+    },
+    "review_stats": {
+        "total_reviews_on_naver": 171,
+        "total_extracted_reviews": 200
+    },
+    "reviews": [
+        {
+            "id": "6a27ec12cc78b835d96049a6",
+            "author": "hyo****",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2551f48107f9da5f5b673a",
+            "author": "7721113",
+            "rating": null,
+            "body": "오랜만에 냉삼이 먹고싶어서 왔는데 \n맛있습니다🥰🥰\n반찬도 푸짐하게 나와요",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a254db4ddec640a6ef98db5",
+            "author": "yh****",
+            "rating": null,
+            "body": "지난번에 와서 대기때문에 못왔는데 오늘운좋게 워크인으로 왔습니다! 냉삼고기 질이 좋고 두툼해서 식감이 더 좋아요. 김치종류도 다양한데 잘익어서 맛있습니다 ㅎ서비스로 나오는 수제비와 우렁강된장도 굿굿! 또올게요:)",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2534a88cf2c38fbbe87957",
+            "author": "Kooooooooooooo",
+            "rating": null,
+            "body": "냉삼 먹고 싶으면 항상 들리는 태용불고기~,~\n밑반찬도 잘 나오고 고기 질이 좋아서 자주 들러요\n항상 맛있어요 분위기도 좋고 야장도 좋으네요\n면 메뉴~~더 만들어 쥬세요 사장님 🥹🥹",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a26a1344c712ad1fc8582b8",
+            "author": "박상배5",
+            "rating": null,
+            "body": "고기는 진짜 맛있어요!!!!!!!!! 추천합니다!!",
+            "created": "6.8.월",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a250e3e544ac85427c8d948",
+            "author": "버져비터11",
+            "rating": null,
+            "body": "메뉴 구성이 너무 좋고 고기 끝내주게 맛있네요 \n재방문 의사 있습니다!\n김치랑 무가 킥이에요 ㅎ",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2523364a1b3debd1ab0bc3",
+            "author": "numu",
+            "rating": null,
+            "body": "고기 맛있어요! 낮술 최공",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a250eb93e2b9b4b48f215e6",
+            "author": "syrubi",
+            "rating": null,
+            "body": "냉동삼겹살 상태도 좋고 특히 밑반찬이 엄청 알차게\n나옵니다. 아이랑 같이 와도 먹을 수 있는 소시지, 어묵반찬 있어서 좋았어요. 특이하게 볶음김치도 나오고 갓김치도 나와서 김치맛집이네요 :-)\n\n재방문할 거 같아요.",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2409206048b2b42e775bb7",
+            "author": "hyojoo",
+            "rating": null,
+            "body": "용산에\n이렇게 맛있는 삼겹살 집이 있는지 몰랐어요 반찬 구성도 너무 좋고 야장 분위기에 쾌적해서 너무 좋아요 무엇보다도 너무 맛있어서 ㅋㅋㅋ 퇴근 후에 꼭 올듯요",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a240939b3996eb6a0d94505",
+            "author": "코모코",
+            "rating": null,
+            "body": "처음 와봤는데 반찬구성도 아주 많고 고기도 질이 좋네요\n맛있게 먹고 갑니다~!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fac41d72b1a385866aa0",
+            "author": "히히18363",
+            "rating": null,
+            "body": "반찬도 너무 잘 나오고 사장님도 친절하셔서 좋았습니다!\n냉심도 맛있는데 생삼도 너무너무 맛있고 고기 질이 좋았습니다👍🥴 반찬 구성이 진짜 야무져요!!🤤",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fa96b3d5326bfaa4fd38",
+            "author": "rla****",
+            "rating": null,
+            "body": "사진을 대충찍긴 했는데 반찬 구성도 좋고 너무 맛있었습니다 !! 고기도 질이 좋은지 맛도 너무 좋았습니다 ㅎㅎ!! 다음에도 용산 온다면 또 올 거 같습니다 !! 감사합니다 ㅎㅎ",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a252366455f93d4b62b7f52",
+            "author": "박주미271",
+            "rating": null,
+            "body": "밑반찬 잘나오구 넘 맛있아용!!!!\n👍👍👍👍",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a25347ca4e7398733968b0f",
+            "author": "성수동펭귄",
+            "rating": null,
+            "body": "너무 맛잇습니다. 추천..",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b742b89925dc83c4423c",
+            "author": "dotori6337",
+            "rating": null,
+            "body": "음식이 정말 맛있어요\n일단 너무 신선하고 밑반찬도 정말 깔끔하고 맛있어요\n같이 온 친구들과 또 오기로 했어요~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b74d481d8937e92e563f",
+            "author": "yd3****",
+            "rating": null,
+            "body": "고기도 맛있고 오징어 볶음도 맛있고 고기도 맛있어요!!!  엄청 맛있어요!!!\n김치랑 구워먹으면 짱맛이예요\n다시 또 와보려고요~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a255298df76d78fcf6e8bb2",
+            "author": "han****",
+            "rating": null,
+            "body": "냉삼이 맛있고 반찬도 다양해요 ㅎㅎ\n맛있습니다",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a5b31e59b9ddc21aac5b",
+            "author": "LittleStar54",
+            "rating": null,
+            "body": "이런 삼겹살이 먹고 싶어서 일부러 찾아왔는데\n너무 잘 온 것 같아요  맛있어요~! \n반찬도 넘 알차게 나오구요 ㅎ 고기도 넘나 맛있어요 ㅎ\n완전 또올집!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a22acdf4e49c7593f83d746",
+            "author": "Jiyoungs2",
+            "rating": null,
+            "body": "청모약속이 있어서 왔는제 고기도 넘 맛있고 사장님도 친절하셨어요!! 용산오실 일 있으면 왕왕 추천합니다~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255cc5cf0ca40f241eef5e",
+            "author": "jim****",
+            "rating": null,
+            "body": "최근에 생긴 곳이라서 지나가다가 우연히 이끌려서 들어갔는 데 탁월한 선택이었습니다!\n반찬도 엄청 많고 하나하나 맛있었으며 특히 고기가 질이 너무 좋아서 들어가는 줄도 모르고 먹고 가네요!\n다음에 삼겹살 주기가 돌아오면 바로 또 오겠습니다!",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255c96535ae22381025f9b",
+            "author": "나0178",
+            "rating": null,
+            "body": "밑반찬 맛있구 생삼겹살도 부드럽고 맛있어요😊\n야장 분위기도 좋아요 추천합니당",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff3da25c3272264a8fdc4",
+            "author": "Hi112233",
+            "rating": null,
+            "body": "청첩장 모임 했는데! 진짜 다들 너무 맛있다고 하고 너무 맛있어요~~~ 가게 분위기도 넘 좋고.. 담에 또 재방문 진짜 추추입니다. 그리고 오징어볶음…! 진짜 존맛탱이예요",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fc54a54acfbc4423e2650",
+            "author": "어어어어푸푸푸",
+            "rating": null,
+            "body": "생삼겹살 먹었는데 반찬도 넘 맛있고 삼겹살도 맛있어요ㅠㅠ 배고파서 먹다가 사진찍었는데 청국장도 맛있고 강된장도 맛있고 삼겹살 먹을때 기본반찬 중요하신 분들한테는 넘 좋아용",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff44b65d9fc39333e4ae7",
+            "author": "진진495",
+            "rating": null,
+            "body": "",
+            "created": "6.3.수",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a27ebb5537a1bb4d626da30",
+            "author": "시나브로9114",
+            "rating": null,
+            "body": "맛있어요",
+            "created": "6.9.화",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a1bccc1ea86d2d99994154b",
+            "author": "내리저주",
+            "rating": null,
+            "body": "고기가 너무너무 맛잇어요!!",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1bcd290cdf175f6a76879f",
+            "author": "지 은98",
+            "rating": null,
+            "body": "새로 오픈했다고 해서 와봤는데 고기 너무 맛있고 너무 친절하세요! 다음에 또 올게요!!~",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1ace70f922a0fcc44849c4",
+            "author": "씨유투브로우",
+            "rating": null,
+            "body": "냄새에 이끌려 들어왔눈데\n반찬 가짓수부터~친절함 맛까지 삼박자가 미쳤어요\n게장,강된장,갓김치 종류별 김치도 맛있어요ㅠㅠㅠ\n꼭꼭 추천합니당 이런곳 love해요💗",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1acdf99c515a001acdb3bc",
+            "author": "Steve 46",
+            "rating": null,
+            "body": "여자친구랑 지나가다가 들렸는데 정말 기교없이 근본 맛집입니다. 기본 찬도 엄청 알차구 종류가 많고 고기도 신선해용~",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a84b84feb2d7172ce0",
+            "author": "도레미8361",
+            "rating": null,
+            "body": "밑반찬 구성도 좋고 고기도 맛있어요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a17fa4f05f24ccb91c54a92",
+            "author": "백점만점60",
+            "rating": null,
+            "body": "삼겹살 상태가 정말 좋아요 !!\n\n무엇보다 삼겹살을 시켰더니 우렁이강된장이랑 수제비탕이 같이 나왔어요 !-!\n\n쵝오❤️",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a40a3636fd3826d7b6",
+            "author": "rka****",
+            "rating": null,
+            "body": "냉동 삼겹살 너무 맛있고!! 분위기도 좋고 깔끔하고 친절해요!! 용리단길 맛집으로 추천합니다ㅎㅎ",
+            "created": "5.29.금",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a140d6a788186537c040864",
+            "author": "스타라임",
+            "rating": null,
+            "body": "",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a140de903dd7ec6e15b9a6a",
+            "author": "tae46",
+            "rating": null,
+            "body": "용산 핫플에 냉삼집\n이름은 태용불고기인데 난 냉삼이 좋음\n반찬 하나하나 다 너무맛있고 우렁 쌈장까지\n사진은못찍었지만\n후식 오징어 볶음밥은 멈출수없는맛,",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a196c4c3e2b9b4b48b0e3b7",
+            "author": "식오빠",
+            "rating": null,
+            "body": "냉삼도 맛있고 오징어 볶음이 진짜 별미입니다 잘먹고갑니다~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a196c18a4e7398733c892b2",
+            "author": "tkd****",
+            "rating": null,
+            "body": "오랜만에 냉삼 먹었는데 맛있어요~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197333eb85db896a85cc65",
+            "author": "메기234",
+            "rating": null,
+            "body": "미쳤습니다 친구들이랑 왔다가 야당 테이블이 있길래 이끌려서 왔는데 저희는 야자 못 앉을 줄 알았는데 특별하게 앉게 되어서 지금 하늘을 쳐다 보면서 마시고 있어요. 사장님들들 너무 친절하시고 고기도 너무 마시고 서비스로 주신 짜파게티 조차 너무 맛있어서 행복해요. 여기 용산에 생긴지 얼마 안된거 같은 데 앞으로도 계속 올 것 같애요. 태용 불고기 화이팅!",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197906c22aa48b79caa35c",
+            "author": "gh****",
+            "rating": null,
+            "body": "아니 너무 맛있어서 다 푸파 해버렸습니다…\n\n짜파게티 도 정말 별미에요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197911eea5dca12c127f34",
+            "author": "mji****",
+            "rating": null,
+            "body": "오징어볶음도 너무맛있고.. 부숴버렸습니다..\n너무맛있고 양도 많아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197c667700c8cf2fd71bdb",
+            "author": "민지짱95",
+            "rating": null,
+            "body": "인스타에서 핫한 맛집이라 바로 예약하고 와봤는데 진짜 찐 맛있어서 놀란 곳 !!!! 생삼겹 퀄리티가 미쳤는데 기본 찬들이 진짜 쫙 깔려서 미쳐써요 ;;; 삼겹살 먹다가 매콤한 오징어볶음 변화구 넘모 좋고요... 청국장도 존맛.. 그냥 전 메뉴가 맛나서 너무 잘먹었어요 강추 ‼️‼️‼️",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c3925f220a97d1533161",
+            "author": "울4235",
+            "rating": null,
+            "body": "고기 질도 너무 좋고 음식도 일반 음식점같은 간도 아니구 맛있게 먹고 왔습니다 🧡🧡 삼쏘 야장 하기 너무너무 추천드려요 👍🏻👍🏻👍🏻👍🏻👍🏻",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c892c0f7d44c81af186d",
+            "author": "쑤1985",
+            "rating": null,
+            "body": "재방문! 냉삼 오징어볶음 밑반찬 다 맛있어요 너무 맛있어요!!\n입소문이 안나길 바랍니다. 나만 아는곳 있길 바랍니당!!!\n😍😍😍😍😍😍😍😍",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a1284656d42a84118aa9d93",
+            "author": "Sonsmamiyo",
+            "rating": null,
+            "body": "처음 방문인데 맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a128559a5f93ee04844a8b3",
+            "author": "son****",
+            "rating": null,
+            "body": "맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a12c8de372b7d05cb98a975",
+            "author": "win****",
+            "rating": null,
+            "body": "냉삼겹살도 맛있고 수제비탕으로 입가심하는 느낌이네요\n김치도 너무 맛있어요",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa8d7a6726635ba160a0b",
+            "author": "yaj****",
+            "rating": null,
+            "body": "음식이  특별하네요.\n반찬도 아주 잘나오고.\n맛있어요^",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117f43cf734f6aae3ba646",
+            "author": "닥터 클린",
+            "rating": null,
+            "body": "기다린 보람이 있어요 돼지불고기 맛있고 양도 많고 기본반찬도 종류 많고 맛도 좋습니다. 용산서 모이면 들르시는걸 추천합니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aafd3bb43666f76e25280",
+            "author": "bull061",
+            "rating": null,
+            "body": "오징어  맛잇고. \n아주  친젖ㄹ하고 \n음식이 맛잇고",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117a4dde58b5cb65b76543",
+            "author": "맛집탐방가8318",
+            "rating": null,
+            "body": "우연히 용산맛집 찾다가 발견했는데 완전 맛있어요!!\n냉삼도 생삼도 맛있고 밑반찬도 최고 그리고 기본으로 나오는 배추국은 술을 부릅니다~~~\n갓김치 배추김치 열무김치 오뎅볶음 다 구워드세요👍",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117fc965ba9b75b37e12cf",
+            "author": "일엽편주26",
+            "rating": null,
+            "body": "레트로 스타일의 고추장 불고기 정말 맛있어요. 매콤하고 잡내가 안나네요. 강된장과 쌈의 조합도 정말 좋네요. 추천드립니다.",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a27ec12cc78b835d96049a6",
+            "author": "hyo****",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2551f48107f9da5f5b673a",
+            "author": "7721113",
+            "rating": null,
+            "body": "오랜만에 냉삼이 먹고싶어서 왔는데 \n맛있습니다🥰🥰\n반찬도 푸짐하게 나와요",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a254db4ddec640a6ef98db5",
+            "author": "yh****",
+            "rating": null,
+            "body": "지난번에 와서 대기때문에 못왔는데 오늘운좋게 워크인으로 왔습니다! 냉삼고기 질이 좋고 두툼해서 식감이 더 좋아요. 김치종류도 다양한데 잘익어서 맛있습니다 ㅎ서비스로 나오는 수제비와 우렁강된장도 굿굿! 또올게요:)",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2534a88cf2c38fbbe87957",
+            "author": "Kooooooooooooo",
+            "rating": null,
+            "body": "냉삼 먹고 싶으면 항상 들리는 태용불고기~,~\n밑반찬도 잘 나오고 고기 질이 좋아서 자주 들러요\n항상 맛있어요 분위기도 좋고 야장도 좋으네요\n면 메뉴~~더 만들어 쥬세요 사장님 🥹🥹",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a26a1344c712ad1fc8582b8",
+            "author": "박상배5",
+            "rating": null,
+            "body": "고기는 진짜 맛있어요!!!!!!!!! 추천합니다!!",
+            "created": "6.8.월",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a250e3e544ac85427c8d948",
+            "author": "버져비터11",
+            "rating": null,
+            "body": "메뉴 구성이 너무 좋고 고기 끝내주게 맛있네요 \n재방문 의사 있습니다!\n김치랑 무가 킥이에요 ㅎ",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2523364a1b3debd1ab0bc3",
+            "author": "numu",
+            "rating": null,
+            "body": "고기 맛있어요! 낮술 최공",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a250eb93e2b9b4b48f215e6",
+            "author": "syrubi",
+            "rating": null,
+            "body": "냉동삼겹살 상태도 좋고 특히 밑반찬이 엄청 알차게\n나옵니다. 아이랑 같이 와도 먹을 수 있는 소시지, 어묵반찬 있어서 좋았어요. 특이하게 볶음김치도 나오고 갓김치도 나와서 김치맛집이네요 :-)\n\n재방문할 거 같아요.",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2409206048b2b42e775bb7",
+            "author": "hyojoo",
+            "rating": null,
+            "body": "용산에\n이렇게 맛있는 삼겹살 집이 있는지 몰랐어요 반찬 구성도 너무 좋고 야장 분위기에 쾌적해서 너무 좋아요 무엇보다도 너무 맛있어서 ㅋㅋㅋ 퇴근 후에 꼭 올듯요",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a240939b3996eb6a0d94505",
+            "author": "코모코",
+            "rating": null,
+            "body": "처음 와봤는데 반찬구성도 아주 많고 고기도 질이 좋네요\n맛있게 먹고 갑니다~!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fac41d72b1a385866aa0",
+            "author": "히히18363",
+            "rating": null,
+            "body": "반찬도 너무 잘 나오고 사장님도 친절하셔서 좋았습니다!\n냉심도 맛있는데 생삼도 너무너무 맛있고 고기 질이 좋았습니다👍🥴 반찬 구성이 진짜 야무져요!!🤤",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fa96b3d5326bfaa4fd38",
+            "author": "rla****",
+            "rating": null,
+            "body": "사진을 대충찍긴 했는데 반찬 구성도 좋고 너무 맛있었습니다 !! 고기도 질이 좋은지 맛도 너무 좋았습니다 ㅎㅎ!! 다음에도 용산 온다면 또 올 거 같습니다 !! 감사합니다 ㅎㅎ",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a252366455f93d4b62b7f52",
+            "author": "박주미271",
+            "rating": null,
+            "body": "밑반찬 잘나오구 넘 맛있아용!!!!\n👍👍👍👍",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a25347ca4e7398733968b0f",
+            "author": "성수동펭귄",
+            "rating": null,
+            "body": "너무 맛잇습니다. 추천..",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b742b89925dc83c4423c",
+            "author": "dotori6337",
+            "rating": null,
+            "body": "음식이 정말 맛있어요\n일단 너무 신선하고 밑반찬도 정말 깔끔하고 맛있어요\n같이 온 친구들과 또 오기로 했어요~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b74d481d8937e92e563f",
+            "author": "yd3****",
+            "rating": null,
+            "body": "고기도 맛있고 오징어 볶음도 맛있고 고기도 맛있어요!!!  엄청 맛있어요!!!\n김치랑 구워먹으면 짱맛이예요\n다시 또 와보려고요~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a255298df76d78fcf6e8bb2",
+            "author": "han****",
+            "rating": null,
+            "body": "냉삼이 맛있고 반찬도 다양해요 ㅎㅎ\n맛있습니다",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a5b31e59b9ddc21aac5b",
+            "author": "LittleStar54",
+            "rating": null,
+            "body": "이런 삼겹살이 먹고 싶어서 일부러 찾아왔는데\n너무 잘 온 것 같아요  맛있어요~! \n반찬도 넘 알차게 나오구요 ㅎ 고기도 넘나 맛있어요 ㅎ\n완전 또올집!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a22acdf4e49c7593f83d746",
+            "author": "Jiyoungs2",
+            "rating": null,
+            "body": "청모약속이 있어서 왔는제 고기도 넘 맛있고 사장님도 친절하셨어요!! 용산오실 일 있으면 왕왕 추천합니다~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255cc5cf0ca40f241eef5e",
+            "author": "jim****",
+            "rating": null,
+            "body": "최근에 생긴 곳이라서 지나가다가 우연히 이끌려서 들어갔는 데 탁월한 선택이었습니다!\n반찬도 엄청 많고 하나하나 맛있었으며 특히 고기가 질이 너무 좋아서 들어가는 줄도 모르고 먹고 가네요!\n다음에 삼겹살 주기가 돌아오면 바로 또 오겠습니다!",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255c96535ae22381025f9b",
+            "author": "나0178",
+            "rating": null,
+            "body": "밑반찬 맛있구 생삼겹살도 부드럽고 맛있어요😊\n야장 분위기도 좋아요 추천합니당",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff3da25c3272264a8fdc4",
+            "author": "Hi112233",
+            "rating": null,
+            "body": "청첩장 모임 했는데! 진짜 다들 너무 맛있다고 하고 너무 맛있어요~~~ 가게 분위기도 넘 좋고.. 담에 또 재방문 진짜 추추입니다. 그리고 오징어볶음…! 진짜 존맛탱이예요",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fc54a54acfbc4423e2650",
+            "author": "어어어어푸푸푸",
+            "rating": null,
+            "body": "생삼겹살 먹었는데 반찬도 넘 맛있고 삼겹살도 맛있어요ㅠㅠ 배고파서 먹다가 사진찍었는데 청국장도 맛있고 강된장도 맛있고 삼겹살 먹을때 기본반찬 중요하신 분들한테는 넘 좋아용",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff44b65d9fc39333e4ae7",
+            "author": "진진495",
+            "rating": null,
+            "body": "",
+            "created": "6.3.수",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a27ebb5537a1bb4d626da30",
+            "author": "시나브로9114",
+            "rating": null,
+            "body": "맛있어요",
+            "created": "6.9.화",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a1bccc1ea86d2d99994154b",
+            "author": "내리저주",
+            "rating": null,
+            "body": "고기가 너무너무 맛잇어요!!",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1bcd290cdf175f6a76879f",
+            "author": "지 은98",
+            "rating": null,
+            "body": "새로 오픈했다고 해서 와봤는데 고기 너무 맛있고 너무 친절하세요! 다음에 또 올게요!!~",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1ace70f922a0fcc44849c4",
+            "author": "씨유투브로우",
+            "rating": null,
+            "body": "냄새에 이끌려 들어왔눈데\n반찬 가짓수부터~친절함 맛까지 삼박자가 미쳤어요\n게장,강된장,갓김치 종류별 김치도 맛있어요ㅠㅠㅠ\n꼭꼭 추천합니당 이런곳 love해요💗",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1acdf99c515a001acdb3bc",
+            "author": "Steve 46",
+            "rating": null,
+            "body": "여자친구랑 지나가다가 들렸는데 정말 기교없이 근본 맛집입니다. 기본 찬도 엄청 알차구 종류가 많고 고기도 신선해용~",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a84b84feb2d7172ce0",
+            "author": "도레미8361",
+            "rating": null,
+            "body": "밑반찬 구성도 좋고 고기도 맛있어요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a17fa4f05f24ccb91c54a92",
+            "author": "백점만점60",
+            "rating": null,
+            "body": "삼겹살 상태가 정말 좋아요 !!\n\n무엇보다 삼겹살을 시켰더니 우렁이강된장이랑 수제비탕이 같이 나왔어요 !-!\n\n쵝오❤️",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a40a3636fd3826d7b6",
+            "author": "rka****",
+            "rating": null,
+            "body": "냉동 삼겹살 너무 맛있고!! 분위기도 좋고 깔끔하고 친절해요!! 용리단길 맛집으로 추천합니다ㅎㅎ",
+            "created": "5.29.금",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a140d6a788186537c040864",
+            "author": "스타라임",
+            "rating": null,
+            "body": "",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a140de903dd7ec6e15b9a6a",
+            "author": "tae46",
+            "rating": null,
+            "body": "용산 핫플에 냉삼집\n이름은 태용불고기인데 난 냉삼이 좋음\n반찬 하나하나 다 너무맛있고 우렁 쌈장까지\n사진은못찍었지만\n후식 오징어 볶음밥은 멈출수없는맛,",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a196c4c3e2b9b4b48b0e3b7",
+            "author": "식오빠",
+            "rating": null,
+            "body": "냉삼도 맛있고 오징어 볶음이 진짜 별미입니다 잘먹고갑니다~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a196c18a4e7398733c892b2",
+            "author": "tkd****",
+            "rating": null,
+            "body": "오랜만에 냉삼 먹었는데 맛있어요~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197333eb85db896a85cc65",
+            "author": "메기234",
+            "rating": null,
+            "body": "미쳤습니다 친구들이랑 왔다가 야당 테이블이 있길래 이끌려서 왔는데 저희는 야자 못 앉을 줄 알았는데 특별하게 앉게 되어서 지금 하늘을 쳐다 보면서 마시고 있어요. 사장님들들 너무 친절하시고 고기도 너무 마시고 서비스로 주신 짜파게티 조차 너무 맛있어서 행복해요. 여기 용산에 생긴지 얼마 안된거 같은 데 앞으로도 계속 올 것 같애요. 태용 불고기 화이팅!",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197906c22aa48b79caa35c",
+            "author": "gh****",
+            "rating": null,
+            "body": "아니 너무 맛있어서 다 푸파 해버렸습니다…\n\n짜파게티 도 정말 별미에요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197911eea5dca12c127f34",
+            "author": "mji****",
+            "rating": null,
+            "body": "오징어볶음도 너무맛있고.. 부숴버렸습니다..\n너무맛있고 양도 많아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197c667700c8cf2fd71bdb",
+            "author": "민지짱95",
+            "rating": null,
+            "body": "인스타에서 핫한 맛집이라 바로 예약하고 와봤는데 진짜 찐 맛있어서 놀란 곳 !!!! 생삼겹 퀄리티가 미쳤는데 기본 찬들이 진짜 쫙 깔려서 미쳐써요 ;;; 삼겹살 먹다가 매콤한 오징어볶음 변화구 넘모 좋고요... 청국장도 존맛.. 그냥 전 메뉴가 맛나서 너무 잘먹었어요 강추 ‼️‼️‼️",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c3925f220a97d1533161",
+            "author": "울4235",
+            "rating": null,
+            "body": "고기 질도 너무 좋고 음식도 일반 음식점같은 간도 아니구 맛있게 먹고 왔습니다 🧡🧡 삼쏘 야장 하기 너무너무 추천드려요 👍🏻👍🏻👍🏻👍🏻👍🏻",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c892c0f7d44c81af186d",
+            "author": "쑤1985",
+            "rating": null,
+            "body": "재방문! 냉삼 오징어볶음 밑반찬 다 맛있어요 너무 맛있어요!!\n입소문이 안나길 바랍니다. 나만 아는곳 있길 바랍니당!!!\n😍😍😍😍😍😍😍😍",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a1284656d42a84118aa9d93",
+            "author": "Sonsmamiyo",
+            "rating": null,
+            "body": "처음 방문인데 맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a128559a5f93ee04844a8b3",
+            "author": "son****",
+            "rating": null,
+            "body": "맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a12c8de372b7d05cb98a975",
+            "author": "win****",
+            "rating": null,
+            "body": "냉삼겹살도 맛있고 수제비탕으로 입가심하는 느낌이네요\n김치도 너무 맛있어요",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa8d7a6726635ba160a0b",
+            "author": "yaj****",
+            "rating": null,
+            "body": "음식이  특별하네요.\n반찬도 아주 잘나오고.\n맛있어요^",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117f43cf734f6aae3ba646",
+            "author": "닥터 클린",
+            "rating": null,
+            "body": "기다린 보람이 있어요 돼지불고기 맛있고 양도 많고 기본반찬도 종류 많고 맛도 좋습니다. 용산서 모이면 들르시는걸 추천합니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aafd3bb43666f76e25280",
+            "author": "bull061",
+            "rating": null,
+            "body": "오징어  맛잇고. \n아주  친젖ㄹ하고 \n음식이 맛잇고",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117a4dde58b5cb65b76543",
+            "author": "맛집탐방가8318",
+            "rating": null,
+            "body": "우연히 용산맛집 찾다가 발견했는데 완전 맛있어요!!\n냉삼도 생삼도 맛있고 밑반찬도 최고 그리고 기본으로 나오는 배추국은 술을 부릅니다~~~\n갓김치 배추김치 열무김치 오뎅볶음 다 구워드세요👍",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117fc965ba9b75b37e12cf",
+            "author": "일엽편주26",
+            "rating": null,
+            "body": "레트로 스타일의 고추장 불고기 정말 맛있어요. 매콤하고 잡내가 안나네요. 강된장과 쌈의 조합도 정말 좋네요. 추천드립니다.",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a27ec12cc78b835d96049a6",
+            "author": "hyo****",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2551f48107f9da5f5b673a",
+            "author": "7721113",
+            "rating": null,
+            "body": "오랜만에 냉삼이 먹고싶어서 왔는데 \n맛있습니다🥰🥰\n반찬도 푸짐하게 나와요",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a254db4ddec640a6ef98db5",
+            "author": "yh****",
+            "rating": null,
+            "body": "지난번에 와서 대기때문에 못왔는데 오늘운좋게 워크인으로 왔습니다! 냉삼고기 질이 좋고 두툼해서 식감이 더 좋아요. 김치종류도 다양한데 잘익어서 맛있습니다 ㅎ서비스로 나오는 수제비와 우렁강된장도 굿굿! 또올게요:)",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2534a88cf2c38fbbe87957",
+            "author": "Kooooooooooooo",
+            "rating": null,
+            "body": "냉삼 먹고 싶으면 항상 들리는 태용불고기~,~\n밑반찬도 잘 나오고 고기 질이 좋아서 자주 들러요\n항상 맛있어요 분위기도 좋고 야장도 좋으네요\n면 메뉴~~더 만들어 쥬세요 사장님 🥹🥹",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a26a1344c712ad1fc8582b8",
+            "author": "박상배5",
+            "rating": null,
+            "body": "고기는 진짜 맛있어요!!!!!!!!! 추천합니다!!",
+            "created": "6.8.월",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a250e3e544ac85427c8d948",
+            "author": "버져비터11",
+            "rating": null,
+            "body": "메뉴 구성이 너무 좋고 고기 끝내주게 맛있네요 \n재방문 의사 있습니다!\n김치랑 무가 킥이에요 ㅎ",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2523364a1b3debd1ab0bc3",
+            "author": "numu",
+            "rating": null,
+            "body": "고기 맛있어요! 낮술 최공",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a250eb93e2b9b4b48f215e6",
+            "author": "syrubi",
+            "rating": null,
+            "body": "냉동삼겹살 상태도 좋고 특히 밑반찬이 엄청 알차게\n나옵니다. 아이랑 같이 와도 먹을 수 있는 소시지, 어묵반찬 있어서 좋았어요. 특이하게 볶음김치도 나오고 갓김치도 나와서 김치맛집이네요 :-)\n\n재방문할 거 같아요.",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2409206048b2b42e775bb7",
+            "author": "hyojoo",
+            "rating": null,
+            "body": "용산에\n이렇게 맛있는 삼겹살 집이 있는지 몰랐어요 반찬 구성도 너무 좋고 야장 분위기에 쾌적해서 너무 좋아요 무엇보다도 너무 맛있어서 ㅋㅋㅋ 퇴근 후에 꼭 올듯요",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a240939b3996eb6a0d94505",
+            "author": "코모코",
+            "rating": null,
+            "body": "처음 와봤는데 반찬구성도 아주 많고 고기도 질이 좋네요\n맛있게 먹고 갑니다~!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fac41d72b1a385866aa0",
+            "author": "히히18363",
+            "rating": null,
+            "body": "반찬도 너무 잘 나오고 사장님도 친절하셔서 좋았습니다!\n냉심도 맛있는데 생삼도 너무너무 맛있고 고기 질이 좋았습니다👍🥴 반찬 구성이 진짜 야무져요!!🤤",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fa96b3d5326bfaa4fd38",
+            "author": "rla****",
+            "rating": null,
+            "body": "사진을 대충찍긴 했는데 반찬 구성도 좋고 너무 맛있었습니다 !! 고기도 질이 좋은지 맛도 너무 좋았습니다 ㅎㅎ!! 다음에도 용산 온다면 또 올 거 같습니다 !! 감사합니다 ㅎㅎ",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a252366455f93d4b62b7f52",
+            "author": "박주미271",
+            "rating": null,
+            "body": "밑반찬 잘나오구 넘 맛있아용!!!!\n👍👍👍👍",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a25347ca4e7398733968b0f",
+            "author": "성수동펭귄",
+            "rating": null,
+            "body": "너무 맛잇습니다. 추천..",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b742b89925dc83c4423c",
+            "author": "dotori6337",
+            "rating": null,
+            "body": "음식이 정말 맛있어요\n일단 너무 신선하고 밑반찬도 정말 깔끔하고 맛있어요\n같이 온 친구들과 또 오기로 했어요~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b74d481d8937e92e563f",
+            "author": "yd3****",
+            "rating": null,
+            "body": "고기도 맛있고 오징어 볶음도 맛있고 고기도 맛있어요!!!  엄청 맛있어요!!!\n김치랑 구워먹으면 짱맛이예요\n다시 또 와보려고요~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a255298df76d78fcf6e8bb2",
+            "author": "han****",
+            "rating": null,
+            "body": "냉삼이 맛있고 반찬도 다양해요 ㅎㅎ\n맛있습니다",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a5b31e59b9ddc21aac5b",
+            "author": "LittleStar54",
+            "rating": null,
+            "body": "이런 삼겹살이 먹고 싶어서 일부러 찾아왔는데\n너무 잘 온 것 같아요  맛있어요~! \n반찬도 넘 알차게 나오구요 ㅎ 고기도 넘나 맛있어요 ㅎ\n완전 또올집!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a22acdf4e49c7593f83d746",
+            "author": "Jiyoungs2",
+            "rating": null,
+            "body": "청모약속이 있어서 왔는제 고기도 넘 맛있고 사장님도 친절하셨어요!! 용산오실 일 있으면 왕왕 추천합니다~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255cc5cf0ca40f241eef5e",
+            "author": "jim****",
+            "rating": null,
+            "body": "최근에 생긴 곳이라서 지나가다가 우연히 이끌려서 들어갔는 데 탁월한 선택이었습니다!\n반찬도 엄청 많고 하나하나 맛있었으며 특히 고기가 질이 너무 좋아서 들어가는 줄도 모르고 먹고 가네요!\n다음에 삼겹살 주기가 돌아오면 바로 또 오겠습니다!",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255c96535ae22381025f9b",
+            "author": "나0178",
+            "rating": null,
+            "body": "밑반찬 맛있구 생삼겹살도 부드럽고 맛있어요😊\n야장 분위기도 좋아요 추천합니당",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff3da25c3272264a8fdc4",
+            "author": "Hi112233",
+            "rating": null,
+            "body": "청첩장 모임 했는데! 진짜 다들 너무 맛있다고 하고 너무 맛있어요~~~ 가게 분위기도 넘 좋고.. 담에 또 재방문 진짜 추추입니다. 그리고 오징어볶음…! 진짜 존맛탱이예요",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fc54a54acfbc4423e2650",
+            "author": "어어어어푸푸푸",
+            "rating": null,
+            "body": "생삼겹살 먹었는데 반찬도 넘 맛있고 삼겹살도 맛있어요ㅠㅠ 배고파서 먹다가 사진찍었는데 청국장도 맛있고 강된장도 맛있고 삼겹살 먹을때 기본반찬 중요하신 분들한테는 넘 좋아용",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff44b65d9fc39333e4ae7",
+            "author": "진진495",
+            "rating": null,
+            "body": "",
+            "created": "6.3.수",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a27ebb5537a1bb4d626da30",
+            "author": "시나브로9114",
+            "rating": null,
+            "body": "맛있어요",
+            "created": "6.9.화",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a1bccc1ea86d2d99994154b",
+            "author": "내리저주",
+            "rating": null,
+            "body": "고기가 너무너무 맛잇어요!!",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1bcd290cdf175f6a76879f",
+            "author": "지 은98",
+            "rating": null,
+            "body": "새로 오픈했다고 해서 와봤는데 고기 너무 맛있고 너무 친절하세요! 다음에 또 올게요!!~",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1ace70f922a0fcc44849c4",
+            "author": "씨유투브로우",
+            "rating": null,
+            "body": "냄새에 이끌려 들어왔눈데\n반찬 가짓수부터~친절함 맛까지 삼박자가 미쳤어요\n게장,강된장,갓김치 종류별 김치도 맛있어요ㅠㅠㅠ\n꼭꼭 추천합니당 이런곳 love해요💗",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1acdf99c515a001acdb3bc",
+            "author": "Steve 46",
+            "rating": null,
+            "body": "여자친구랑 지나가다가 들렸는데 정말 기교없이 근본 맛집입니다. 기본 찬도 엄청 알차구 종류가 많고 고기도 신선해용~",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a84b84feb2d7172ce0",
+            "author": "도레미8361",
+            "rating": null,
+            "body": "밑반찬 구성도 좋고 고기도 맛있어요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a17fa4f05f24ccb91c54a92",
+            "author": "백점만점60",
+            "rating": null,
+            "body": "삼겹살 상태가 정말 좋아요 !!\n\n무엇보다 삼겹살을 시켰더니 우렁이강된장이랑 수제비탕이 같이 나왔어요 !-!\n\n쵝오❤️",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a40a3636fd3826d7b6",
+            "author": "rka****",
+            "rating": null,
+            "body": "냉동 삼겹살 너무 맛있고!! 분위기도 좋고 깔끔하고 친절해요!! 용리단길 맛집으로 추천합니다ㅎㅎ",
+            "created": "5.29.금",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a140d6a788186537c040864",
+            "author": "스타라임",
+            "rating": null,
+            "body": "",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a140de903dd7ec6e15b9a6a",
+            "author": "tae46",
+            "rating": null,
+            "body": "용산 핫플에 냉삼집\n이름은 태용불고기인데 난 냉삼이 좋음\n반찬 하나하나 다 너무맛있고 우렁 쌈장까지\n사진은못찍었지만\n후식 오징어 볶음밥은 멈출수없는맛,",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a196c4c3e2b9b4b48b0e3b7",
+            "author": "식오빠",
+            "rating": null,
+            "body": "냉삼도 맛있고 오징어 볶음이 진짜 별미입니다 잘먹고갑니다~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a196c18a4e7398733c892b2",
+            "author": "tkd****",
+            "rating": null,
+            "body": "오랜만에 냉삼 먹었는데 맛있어요~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197333eb85db896a85cc65",
+            "author": "메기234",
+            "rating": null,
+            "body": "미쳤습니다 친구들이랑 왔다가 야당 테이블이 있길래 이끌려서 왔는데 저희는 야자 못 앉을 줄 알았는데 특별하게 앉게 되어서 지금 하늘을 쳐다 보면서 마시고 있어요. 사장님들들 너무 친절하시고 고기도 너무 마시고 서비스로 주신 짜파게티 조차 너무 맛있어서 행복해요. 여기 용산에 생긴지 얼마 안된거 같은 데 앞으로도 계속 올 것 같애요. 태용 불고기 화이팅!",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197906c22aa48b79caa35c",
+            "author": "gh****",
+            "rating": null,
+            "body": "아니 너무 맛있어서 다 푸파 해버렸습니다…\n\n짜파게티 도 정말 별미에요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197911eea5dca12c127f34",
+            "author": "mji****",
+            "rating": null,
+            "body": "오징어볶음도 너무맛있고.. 부숴버렸습니다..\n너무맛있고 양도 많아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197c667700c8cf2fd71bdb",
+            "author": "민지짱95",
+            "rating": null,
+            "body": "인스타에서 핫한 맛집이라 바로 예약하고 와봤는데 진짜 찐 맛있어서 놀란 곳 !!!! 생삼겹 퀄리티가 미쳤는데 기본 찬들이 진짜 쫙 깔려서 미쳐써요 ;;; 삼겹살 먹다가 매콤한 오징어볶음 변화구 넘모 좋고요... 청국장도 존맛.. 그냥 전 메뉴가 맛나서 너무 잘먹었어요 강추 ‼️‼️‼️",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c3925f220a97d1533161",
+            "author": "울4235",
+            "rating": null,
+            "body": "고기 질도 너무 좋고 음식도 일반 음식점같은 간도 아니구 맛있게 먹고 왔습니다 🧡🧡 삼쏘 야장 하기 너무너무 추천드려요 👍🏻👍🏻👍🏻👍🏻👍🏻",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c892c0f7d44c81af186d",
+            "author": "쑤1985",
+            "rating": null,
+            "body": "재방문! 냉삼 오징어볶음 밑반찬 다 맛있어요 너무 맛있어요!!\n입소문이 안나길 바랍니다. 나만 아는곳 있길 바랍니당!!!\n😍😍😍😍😍😍😍😍",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a1284656d42a84118aa9d93",
+            "author": "Sonsmamiyo",
+            "rating": null,
+            "body": "처음 방문인데 맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a128559a5f93ee04844a8b3",
+            "author": "son****",
+            "rating": null,
+            "body": "맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a12c8de372b7d05cb98a975",
+            "author": "win****",
+            "rating": null,
+            "body": "냉삼겹살도 맛있고 수제비탕으로 입가심하는 느낌이네요\n김치도 너무 맛있어요",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa8d7a6726635ba160a0b",
+            "author": "yaj****",
+            "rating": null,
+            "body": "음식이  특별하네요.\n반찬도 아주 잘나오고.\n맛있어요^",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117f43cf734f6aae3ba646",
+            "author": "닥터 클린",
+            "rating": null,
+            "body": "기다린 보람이 있어요 돼지불고기 맛있고 양도 많고 기본반찬도 종류 많고 맛도 좋습니다. 용산서 모이면 들르시는걸 추천합니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aafd3bb43666f76e25280",
+            "author": "bull061",
+            "rating": null,
+            "body": "오징어  맛잇고. \n아주  친젖ㄹ하고 \n음식이 맛잇고",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117a4dde58b5cb65b76543",
+            "author": "맛집탐방가8318",
+            "rating": null,
+            "body": "우연히 용산맛집 찾다가 발견했는데 완전 맛있어요!!\n냉삼도 생삼도 맛있고 밑반찬도 최고 그리고 기본으로 나오는 배추국은 술을 부릅니다~~~\n갓김치 배추김치 열무김치 오뎅볶음 다 구워드세요👍",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117fc965ba9b75b37e12cf",
+            "author": "일엽편주26",
+            "rating": null,
+            "body": "레트로 스타일의 고추장 불고기 정말 맛있어요. 매콤하고 잡내가 안나네요. 강된장과 쌈의 조합도 정말 좋네요. 추천드립니다.",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a27ec12cc78b835d96049a6",
+            "author": "hyo****",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2551f48107f9da5f5b673a",
+            "author": "7721113",
+            "rating": null,
+            "body": "오랜만에 냉삼이 먹고싶어서 왔는데 \n맛있습니다🥰🥰\n반찬도 푸짐하게 나와요",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a254db4ddec640a6ef98db5",
+            "author": "yh****",
+            "rating": null,
+            "body": "지난번에 와서 대기때문에 못왔는데 오늘운좋게 워크인으로 왔습니다! 냉삼고기 질이 좋고 두툼해서 식감이 더 좋아요. 김치종류도 다양한데 잘익어서 맛있습니다 ㅎ서비스로 나오는 수제비와 우렁강된장도 굿굿! 또올게요:)",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a2534a88cf2c38fbbe87957",
+            "author": "Kooooooooooooo",
+            "rating": null,
+            "body": "냉삼 먹고 싶으면 항상 들리는 태용불고기~,~\n밑반찬도 잘 나오고 고기 질이 좋아서 자주 들러요\n항상 맛있어요 분위기도 좋고 야장도 좋으네요\n면 메뉴~~더 만들어 쥬세요 사장님 🥹🥹",
+            "created": "6.7.일",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a26a1344c712ad1fc8582b8",
+            "author": "박상배5",
+            "rating": null,
+            "body": "고기는 진짜 맛있어요!!!!!!!!! 추천합니다!!",
+            "created": "6.8.월",
+            "visited_date": "2026.06.07.",
+            "reply": null
+        },
+        {
+            "id": "6a250e3e544ac85427c8d948",
+            "author": "버져비터11",
+            "rating": null,
+            "body": "메뉴 구성이 너무 좋고 고기 끝내주게 맛있네요 \n재방문 의사 있습니다!\n김치랑 무가 킥이에요 ㅎ",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2523364a1b3debd1ab0bc3",
+            "author": "numu",
+            "rating": null,
+            "body": "고기 맛있어요! 낮술 최공",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a250eb93e2b9b4b48f215e6",
+            "author": "syrubi",
+            "rating": null,
+            "body": "냉동삼겹살 상태도 좋고 특히 밑반찬이 엄청 알차게\n나옵니다. 아이랑 같이 와도 먹을 수 있는 소시지, 어묵반찬 있어서 좋았어요. 특이하게 볶음김치도 나오고 갓김치도 나와서 김치맛집이네요 :-)\n\n재방문할 거 같아요.",
+            "created": "6.7.일",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a2409206048b2b42e775bb7",
+            "author": "hyojoo",
+            "rating": null,
+            "body": "용산에\n이렇게 맛있는 삼겹살 집이 있는지 몰랐어요 반찬 구성도 너무 좋고 야장 분위기에 쾌적해서 너무 좋아요 무엇보다도 너무 맛있어서 ㅋㅋㅋ 퇴근 후에 꼭 올듯요",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a240939b3996eb6a0d94505",
+            "author": "코모코",
+            "rating": null,
+            "body": "처음 와봤는데 반찬구성도 아주 많고 고기도 질이 좋네요\n맛있게 먹고 갑니다~!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fac41d72b1a385866aa0",
+            "author": "히히18363",
+            "rating": null,
+            "body": "반찬도 너무 잘 나오고 사장님도 친절하셔서 좋았습니다!\n냉심도 맛있는데 생삼도 너무너무 맛있고 고기 질이 좋았습니다👍🥴 반찬 구성이 진짜 야무져요!!🤤",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23fa96b3d5326bfaa4fd38",
+            "author": "rla****",
+            "rating": null,
+            "body": "사진을 대충찍긴 했는데 반찬 구성도 좋고 너무 맛있었습니다 !! 고기도 질이 좋은지 맛도 너무 좋았습니다 ㅎㅎ!! 다음에도 용산 온다면 또 올 거 같습니다 !! 감사합니다 ㅎㅎ",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a252366455f93d4b62b7f52",
+            "author": "박주미271",
+            "rating": null,
+            "body": "밑반찬 잘나오구 넘 맛있아용!!!!\n👍👍👍👍",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a25347ca4e7398733968b0f",
+            "author": "성수동펭귄",
+            "rating": null,
+            "body": "너무 맛잇습니다. 추천..",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b742b89925dc83c4423c",
+            "author": "dotori6337",
+            "rating": null,
+            "body": "음식이 정말 맛있어요\n일단 너무 신선하고 밑반찬도 정말 깔끔하고 맛있어요\n같이 온 친구들과 또 오기로 했어요~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22b74d481d8937e92e563f",
+            "author": "yd3****",
+            "rating": null,
+            "body": "고기도 맛있고 오징어 볶음도 맛있고 고기도 맛있어요!!!  엄청 맛있어요!!!\n김치랑 구워먹으면 짱맛이예요\n다시 또 와보려고요~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a255298df76d78fcf6e8bb2",
+            "author": "han****",
+            "rating": null,
+            "body": "냉삼이 맛있고 반찬도 다양해요 ㅎㅎ\n맛있습니다",
+            "created": "6.7.일",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a5b31e59b9ddc21aac5b",
+            "author": "LittleStar54",
+            "rating": null,
+            "body": "이런 삼겹살이 먹고 싶어서 일부러 찾아왔는데\n너무 잘 온 것 같아요  맛있어요~! \n반찬도 넘 알차게 나오구요 ㅎ 고기도 넘나 맛있어요 ㅎ\n완전 또올집!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a22acdf4e49c7593f83d746",
+            "author": "Jiyoungs2",
+            "rating": null,
+            "body": "청모약속이 있어서 왔는제 고기도 넘 맛있고 사장님도 친절하셨어요!! 용산오실 일 있으면 왕왕 추천합니다~~",
+            "created": "6.5.금",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255cc5cf0ca40f241eef5e",
+            "author": "jim****",
+            "rating": null,
+            "body": "최근에 생긴 곳이라서 지나가다가 우연히 이끌려서 들어갔는 데 탁월한 선택이었습니다!\n반찬도 엄청 많고 하나하나 맛있었으며 특히 고기가 질이 너무 좋아서 들어가는 줄도 모르고 먹고 가네요!\n다음에 삼겹살 주기가 돌아오면 바로 또 오겠습니다!",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a255c96535ae22381025f9b",
+            "author": "나0178",
+            "rating": null,
+            "body": "밑반찬 맛있구 생삼겹살도 부드럽고 맛있어요😊\n야장 분위기도 좋아요 추천합니당",
+            "created": "6.7.일",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff3da25c3272264a8fdc4",
+            "author": "Hi112233",
+            "rating": null,
+            "body": "청첩장 모임 했는데! 진짜 다들 너무 맛있다고 하고 너무 맛있어요~~~ 가게 분위기도 넘 좋고.. 담에 또 재방문 진짜 추추입니다. 그리고 오징어볶음…! 진짜 존맛탱이예요",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fc54a54acfbc4423e2650",
+            "author": "어어어어푸푸푸",
+            "rating": null,
+            "body": "생삼겹살 먹었는데 반찬도 넘 맛있고 삼겹살도 맛있어요ㅠㅠ 배고파서 먹다가 사진찍었는데 청국장도 맛있고 강된장도 맛있고 삼겹살 먹을때 기본반찬 중요하신 분들한테는 넘 좋아용",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ff44b65d9fc39333e4ae7",
+            "author": "진진495",
+            "rating": null,
+            "body": "",
+            "created": "6.3.수",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a27ebb5537a1bb4d626da30",
+            "author": "시나브로9114",
+            "rating": null,
+            "body": "맛있어요",
+            "created": "6.9.화",
+            "visited_date": "2026.06.02.",
+            "reply": null
+        },
+        {
+            "id": "6a1bccc1ea86d2d99994154b",
+            "author": "내리저주",
+            "rating": null,
+            "body": "고기가 너무너무 맛잇어요!!",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1bcd290cdf175f6a76879f",
+            "author": "지 은98",
+            "rating": null,
+            "body": "새로 오픈했다고 해서 와봤는데 고기 너무 맛있고 너무 친절하세요! 다음에 또 올게요!!~",
+            "created": "5.31.일",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1ace70f922a0fcc44849c4",
+            "author": "씨유투브로우",
+            "rating": null,
+            "body": "냄새에 이끌려 들어왔눈데\n반찬 가짓수부터~친절함 맛까지 삼박자가 미쳤어요\n게장,강된장,갓김치 종류별 김치도 맛있어요ㅠㅠㅠ\n꼭꼭 추천합니당 이런곳 love해요💗",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1acdf99c515a001acdb3bc",
+            "author": "Steve 46",
+            "rating": null,
+            "body": "여자친구랑 지나가다가 들렸는데 정말 기교없이 근본 맛집입니다. 기본 찬도 엄청 알차구 종류가 많고 고기도 신선해용~",
+            "created": "5.30.토",
+            "visited_date": "2026.05.30.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a84b84feb2d7172ce0",
+            "author": "도레미8361",
+            "rating": null,
+            "body": "밑반찬 구성도 좋고 고기도 맛있어요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a17fa4f05f24ccb91c54a92",
+            "author": "백점만점60",
+            "rating": null,
+            "body": "삼겹살 상태가 정말 좋아요 !!\n\n무엇보다 삼겹살을 시켰더니 우렁이강된장이랑 수제비탕이 같이 나왔어요 !-!\n\n쵝오❤️",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a1960a40a3636fd3826d7b6",
+            "author": "rka****",
+            "rating": null,
+            "body": "냉동 삼겹살 너무 맛있고!! 분위기도 좋고 깔끔하고 친절해요!! 용리단길 맛집으로 추천합니다ㅎㅎ",
+            "created": "5.29.금",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a140d6a788186537c040864",
+            "author": "스타라임",
+            "rating": null,
+            "body": "",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a140de903dd7ec6e15b9a6a",
+            "author": "tae46",
+            "rating": null,
+            "body": "용산 핫플에 냉삼집\n이름은 태용불고기인데 난 냉삼이 좋음\n반찬 하나하나 다 너무맛있고 우렁 쌈장까지\n사진은못찍었지만\n후식 오징어 볶음밥은 멈출수없는맛,",
+            "created": "5.25.월",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a196c4c3e2b9b4b48b0e3b7",
+            "author": "식오빠",
+            "rating": null,
+            "body": "냉삼도 맛있고 오징어 볶음이 진짜 별미입니다 잘먹고갑니다~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a196c18a4e7398733c892b2",
+            "author": "tkd****",
+            "rating": null,
+            "body": "오랜만에 냉삼 먹었는데 맛있어요~",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197333eb85db896a85cc65",
+            "author": "메기234",
+            "rating": null,
+            "body": "미쳤습니다 친구들이랑 왔다가 야당 테이블이 있길래 이끌려서 왔는데 저희는 야자 못 앉을 줄 알았는데 특별하게 앉게 되어서 지금 하늘을 쳐다 보면서 마시고 있어요. 사장님들들 너무 친절하시고 고기도 너무 마시고 서비스로 주신 짜파게티 조차 너무 맛있어서 행복해요. 여기 용산에 생긴지 얼마 안된거 같은 데 앞으로도 계속 올 것 같애요. 태용 불고기 화이팅!",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197906c22aa48b79caa35c",
+            "author": "gh****",
+            "rating": null,
+            "body": "아니 너무 맛있어서 다 푸파 해버렸습니다…\n\n짜파게티 도 정말 별미에요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197911eea5dca12c127f34",
+            "author": "mji****",
+            "rating": null,
+            "body": "오징어볶음도 너무맛있고.. 부숴버렸습니다..\n너무맛있고 양도 많아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a197c667700c8cf2fd71bdb",
+            "author": "민지짱95",
+            "rating": null,
+            "body": "인스타에서 핫한 맛집이라 바로 예약하고 와봤는데 진짜 찐 맛있어서 놀란 곳 !!!! 생삼겹 퀄리티가 미쳤는데 기본 찬들이 진짜 쫙 깔려서 미쳐써요 ;;; 삼겹살 먹다가 매콤한 오징어볶음 변화구 넘모 좋고요... 청국장도 존맛.. 그냥 전 메뉴가 맛나서 너무 잘먹었어요 강추 ‼️‼️‼️",
+            "created": "5.29.금",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c3925f220a97d1533161",
+            "author": "울4235",
+            "rating": null,
+            "body": "고기 질도 너무 좋고 음식도 일반 음식점같은 간도 아니구 맛있게 먹고 왔습니다 🧡🧡 삼쏘 야장 하기 너무너무 추천드려요 👍🏻👍🏻👍🏻👍🏻👍🏻",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a12c892c0f7d44c81af186d",
+            "author": "쑤1985",
+            "rating": null,
+            "body": "재방문! 냉삼 오징어볶음 밑반찬 다 맛있어요 너무 맛있어요!!\n입소문이 안나길 바랍니다. 나만 아는곳 있길 바랍니당!!!\n😍😍😍😍😍😍😍😍",
+            "created": "5.24.일",
+            "visited_date": "2026.05.24.",
+            "reply": null
+        },
+        {
+            "id": "6a1284656d42a84118aa9d93",
+            "author": "Sonsmamiyo",
+            "rating": null,
+            "body": "처음 방문인데 맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a128559a5f93ee04844a8b3",
+            "author": "son****",
+            "rating": null,
+            "body": "맛있어요~^^",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a12c8de372b7d05cb98a975",
+            "author": "win****",
+            "rating": null,
+            "body": "냉삼겹살도 맛있고 수제비탕으로 입가심하는 느낌이네요\n김치도 너무 맛있어요",
+            "created": "5.24.일",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa8d7a6726635ba160a0b",
+            "author": "yaj****",
+            "rating": null,
+            "body": "음식이  특별하네요.\n반찬도 아주 잘나오고.\n맛있어요^",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117f43cf734f6aae3ba646",
+            "author": "닥터 클린",
+            "rating": null,
+            "body": "기다린 보람이 있어요 돼지불고기 맛있고 양도 많고 기본반찬도 종류 많고 맛도 좋습니다. 용산서 모이면 들르시는걸 추천합니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a1aafd3bb43666f76e25280",
+            "author": "bull061",
+            "rating": null,
+            "body": "오징어  맛잇고. \n아주  친젖ㄹ하고 \n음식이 맛잇고",
+            "created": "5.30.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117a4dde58b5cb65b76543",
+            "author": "맛집탐방가8318",
+            "rating": null,
+            "body": "우연히 용산맛집 찾다가 발견했는데 완전 맛있어요!!\n냉삼도 생삼도 맛있고 밑반찬도 최고 그리고 기본으로 나오는 배추국은 술을 부릅니다~~~\n갓김치 배추김치 열무김치 오뎅볶음 다 구워드세요👍",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a117fc965ba9b75b37e12cf",
+            "author": "일엽편주26",
+            "rating": null,
+            "body": "레트로 스타일의 고추장 불고기 정말 맛있어요. 매콤하고 잡내가 안나네요. 강된장과 쌈의 조합도 정말 좋네요. 추천드립니다.",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        }
+    ]
+}
