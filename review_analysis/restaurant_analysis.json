@@ -1,0 +1,1375 @@
+[
+    {
+        "restaurant_id": 37577974,
+        "restaurant_name": "봉우이층집",
+        "summary": "고기와 서비스가 뛰어난 인기 고기집",
+        "strengths": [
+            "고기의 맛이 뛰어나다",
+            "직원들이 친절하고 서비스가 좋다"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 8.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "너무 맛있어요",
+            "직원분들이 너무 친절해용"
+        ]
+    },
+    {
+        "restaurant_id": 20563653,
+        "restaurant_name": "대통령삼겹살 신논현역점",
+        "summary": "고기 맛과 서비스가 뛰어난 청첩장 모임에 적합한 식당입니다.",
+        "strengths": [
+            "고기의 맛이 뛰어나고 육즙이 풍부하다.",
+            "직원이 고기를 구워주어 편하게 식사할 수 있다."
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기도 너무 맛있고 깔끔하네용.",
+            "직원분이 맛있게 구워주셔서 편하게 잘먹었어요."
+        ]
+    },
+    {
+        "restaurant_id": 37486499,
+        "restaurant_name": "반갑다 하대포",
+        "summary": "신선하고 맛있는 고기를 제공하는 인기 회식 장소",
+        "strengths": [
+            "고기의 신선도와 맛이 뛰어남",
+            "직접 구워주는 서비스로 편안한 식사 경험 제공"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기가 정말 숙성이 좋아 맛이 좋고 그릴링 서비스로 고기를 제대로 구워주시니 먹기만 하면 되는 회식장소로 인기가 좋은 강남역맛집입니다!!",
+            "고기 질도 너무 좋고 직원분들도 친절하셔서 기분좋게 먹었네요 대만족입니다👍🏻"
+        ]
+    },
+    {
+        "restaurant_id": 36873920,
+        "restaurant_name": "고기꾼김춘배 홍대본점",
+        "summary": "고기 질과 친절한 서비스로 만족스러운 식사를 제공하는 맛집.",
+        "strengths": [
+            "고기 질이 매우 좋음",
+            "친절한 서비스와 쾌적한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기가 진짜 맛있었습니다ㅎㅎ",
+            "직원분이 정말 친절하셔서 더 기분 좋게 식사했던 곳입니다"
+        ]
+    },
+    {
+        "restaurant_id": 11678405,
+        "restaurant_name": "마포진짜원조최대포 본점",
+        "summary": "고기 본연의 맛과 세심한 서비스가 돋보이는 아늑한 고깃집.",
+        "strengths": [
+            "고기 퀄리티가 뛰어나고 맛있음",
+            "직원들의 세심하고 친절한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 본연의 맛이 살아있어서 씹을수록 자꾸 손이 가더라고요.",
+            "직원분들이 세심하게 챙겨주셔서 편안하게 즐길 수 있었어요."
+        ]
+    },
+    {
+        "restaurant_id": 37653872,
+        "restaurant_name": "강남 돼지상회 무한리필",
+        "summary": "고기 질과 가성비가 뛰어난 무한리필 식당으로 강남역 근처에서 인기.",
+        "strengths": [
+            "고기 질이 우수하고 잡내가 적음",
+            "가성비가 뛰어나며 다양한 메뉴 제공"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.5
+        },
+        "evidence": [
+            "고기 질이 무한리필이라는것이 믿기지 않을정도로 잡내없이 맛있었습니다~",
+            "강남에서 먹는 가성비 짱 종류도 많고 잡내도 적어서 이즈 맛있게 먹고갑니다👍"
+        ]
+    },
+    {
+        "restaurant_id": 37026271,
+        "restaurant_name": "탐라도야지",
+        "summary": "고기와 기본 반찬의 퀄리티가 뛰어난 맛집으로, 서비스 또한 훌륭하다는 리뷰가 많습니다.",
+        "strengths": [
+            "고기 퀄리티가 높고 맛있음",
+            "서비스가 좋고 기본 반찬이 훌륭함"
+        ],
+        "weaknesses": [
+            "일부 리뷰에서 평범하다는 의견이 있음"
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 8.0,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 진짜 맛있어요 쌈도 푸짐하고 찌개랑 계란찜까지 아주 완벽합니다 맛있게 잘 먹고 갑니다",
+            "서비스가 너무 좋고 고기만 시켜도 계란찜이랑 된장찌개가 같이 나와서 너무 좋아요~~~!"
+        ]
+    },
+    {
+        "restaurant_id": 11609540,
+        "restaurant_name": "봉우화로",
+        "summary": "고기와 반찬의 맛이 뛰어나고 서비스가 우수한 고깃집",
+        "strengths": [
+            "고기 질이 좋고 맛이 뛰어나다",
+            "친절한 서비스와 다양한 반찬"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 질이 정말 좋고 풍미가 뛰어났으며, 육회도 신선하고 부드러워 모두 만족스럽게 즐길 수 있었습니다.",
+            "고기가 싸고 너무 맛있어요 반찬도 수준급으로 잘 나와서 자주 오려고 합니다."
+        ]
+    },
+    {
+        "restaurant_id": 37704319,
+        "restaurant_name": "화기애애",
+        "summary": "고기 질과 계란찜이 뛰어난 식당으로, 가족 외식에 적합한 곳입니다.",
+        "strengths": [
+            "고기의 질이 좋고 부드럽다",
+            "계란찜이 촉촉하고 잘 어울린다"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 8.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 질이 괜찮아서 한 점씩 천천히 즐기게 되더라고요.",
+            "계란찜이 촉촉하고 고기와도 잘 어울렸습니다."
+        ]
+    },
+    {
+        "restaurant_id": 31600260,
+        "restaurant_name": "잰부닥",
+        "summary": "고기 퀄리티와 친절한 서비스가 돋보이는 흑돼지 전문점이지만, 서비스 일관성에 아쉬움이 있다.",
+        "strengths": [
+            "고기 퀄리티가 뛰어나고 육즙이 풍부하다.",
+            "직원들의 친절한 서비스와 깔끔한 인테리어"
+        ],
+        "weaknesses": [
+            "서비스 일관성이 부족하고 주문 실수가 발생할 수 있다."
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 6.5,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기가 신선해서 그런지 먹었는데 야들야들 하고 잡내 없고 반찬도 하나같이 깔끔해서 손이 잘 가더라구요.",
+            "일단 인테리어 깔끔하고, 별도 룸이 있어서 너무 좋아요."
+        ]
+    },
+    {
+        "restaurant_id": 1021725079,
+        "restaurant_name": "상록수 선릉점",
+        "summary": "고기와 친절한 서비스가 돋보이는 맛집",
+        "strengths": [
+            "고기의 신선함과 맛",
+            "친절한 서비스와 좋은 분위기"
+        ],
+        "weaknesses": [
+            "가격이 다소 비쌈"
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.5,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 7.0
+        },
+        "evidence": [
+            "고기가 신선하니 참 좋네요",
+            "사장님이 엄청 친절하셔요!!! 고기도 너무 맛있고"
+        ]
+    },
+    {
+        "restaurant_id": 1005495070,
+        "restaurant_name": "영동그집",
+        "summary": "고기와 분위기가 뛰어난 맛집으로, 친절한 서비스가 돋보입니다.",
+        "strengths": [
+            "맛있는 고기와 다양한 메뉴",
+            "친절한 서비스와 깔끔한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "돼지가리비 너무 고급스럽고 맛있어요😍😍 된장술밥이랑 리조또도 최고!",
+            "고기가 너무 맛있고 친절하셔서 기분좋게 모임하고갑니다"
+        ]
+    },
+    {
+        "restaurant_id": 1087970189,
+        "restaurant_name": "돝고기506",
+        "summary": "맛있는 돝고기와 친절한 서비스로 만족스러운 식사를 제공하는 곳입니다.",
+        "strengths": [
+            "고기의 맛과 질이 뛰어나다.",
+            "직원들이 매우 친절하다."
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "여기 돼지고기 미쳤습니다!",
+            "직원분들도 친절하시고 너무 만족스러운 식사였어요!"
+        ]
+    },
+    {
+        "restaurant_id": 619673845,
+        "restaurant_name": "두껍삼 역삼직영점",
+        "summary": "맛있는 고기와 친절한 서비스로 가족 모임에 적합한 식당입니다.",
+        "strengths": [
+            "고기의 맛이 뛰어나고 다양한 사이드 메뉴가 제공됨",
+            "직원들이 친절하고 분위기가 좋음"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 다 구워주셔서 너무 편하게 먹었어요!",
+            "고기도 너무 맛있고 사이드로 나오는 반찬도 맛있어요!"
+        ]
+    },
+    {
+        "restaurant_id": 37837518,
+        "restaurant_name": "고기꾼김춘배 강남점",
+        "summary": "신선하고 맛있는 고기와 좋은 분위기로 모임에 적합한 식당입니다.",
+        "strengths": [
+            "고기의 신선도와 맛이 뛰어남",
+            "모임하기 좋은 조용한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기가 신선하고 맛있어요!",
+            "모임하기 좋은 조용한 분위기"
+        ]
+    },
+    {
+        "restaurant_id": 1009371925,
+        "restaurant_name": "수미돈 삼성점",
+        "summary": "프리미엄 생고기와 정갈한 밑반찬이 조화를 이루는 맛집",
+        "strengths": [
+            "최상급 육질과 겉바속촉의 완벽한 조화",
+            "정성스럽고 맛깔나는 밑반찬 구성"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "육질이 대박이에요.",
+            "프리미엄 한돈의 깊은 풍미를 분위기 있는 와인 콜키지와 함께 즐겼습니다."
+        ]
+    },
+    {
+        "restaurant_id": 1028354634,
+        "restaurant_name": "다몽집 신논현본점",
+        "summary": "고기와 서비스가 뛰어난 강남역 맛집으로, 재방문 의사가 높은 곳입니다.",
+        "strengths": [
+            "고기가 연하고 맛있다",
+            "다 구워주어서 편리하다"
+        ],
+        "weaknesses": [
+            "고기 맛이 평균적이라는 의견도 있다"
+        ],
+        "scores": {
+            "taste": 8.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기가 넘 연하고 맛나뇨!",
+            "다 구워주셔서 편하고 강남역에 이만한데 없습니다 진짜"
+        ]
+    },
+    {
+        "restaurant_id": 1045639997,
+        "restaurant_name": "신사화로 신사본점",
+        "summary": "신선한 고기와 친절한 서비스로 인기 있는 화로구이 맛집입니다.",
+        "strengths": [
+            "고기의 신선도와 질이 뛰어남",
+            "친절한 서비스와 좋은 위치"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 상태 진짜 신선하고 육즙도 좋아 맛있게 먹었어요!!!",
+            "고기질도 좋고 육회도 맛있어요"
+        ]
+    },
+    {
+        "restaurant_id": 1090542652,
+        "restaurant_name": "형제특수부위 공덕점",
+        "summary": "고기와 서비스가 뛰어난 맛집으로 추천받는 곳입니다.",
+        "strengths": [
+            "고기 맛과 질이 뛰어남",
+            "친절한 서비스와 깔끔한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 양도 많고 무엇보다 너무 맛있어요",
+            "직원분들도 반찬 떨어질 때마다 바로 채워주시고 너무 친절하세요"
+        ]
+    },
+    {
+        "restaurant_id": 1008380466,
+        "restaurant_name": "청담고수 청담점",
+        "summary": "고기 퀄리티와 서비스가 뛰어난 식당으로, 깔끔한 분위기에서 만족스러운 식사를 제공하는 곳입니다.",
+        "strengths": [
+            "고기 퀄리티가 뛰어남",
+            "친절한 서비스와 깔끔한 매장"
+        ],
+        "weaknesses": [
+            "일부 직원의 고기 굽기 스킬 부족"
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 8.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 퀄리티가 정말 좋아서 한입 먹자마자 녹아요 :)",
+            "매장 분위기도 깔끔하고 서비스도 좋아서 재방문하고 싶은 곳입니다."
+        ]
+    },
+    {
+        "restaurant_id": 1115671675,
+        "restaurant_name": "유니네 고깃간 강남역점",
+        "summary": "고기 맛과 서비스가 뛰어난 깔끔한 고깃집",
+        "strengths": [
+            "고기가 맛있고 육질이 좋음",
+            "직원들이 친절하고 구워주는 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 엄청 맛나보이고 직접 구워주셔서 개꿀!",
+            "고기도 두툼하고 너무 맛있었습니다!!"
+        ]
+    },
+    {
+        "restaurant_id": 1143577729,
+        "restaurant_name": "직화장인 신사점",
+        "summary": "고기 질과 서비스가 뛰어난 직화구이 전문점",
+        "strengths": [
+            "고기 질이 우수하고 맛이 뛰어남",
+            "친절한 서비스와 청결한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 맛에만 집중할 수 있어서 너무 좋았습니다.",
+            "직화 향이 제대로 배어 있어서 고소하면서도 담백했고, 암소투쁠등심은 입안에서 살살 녹더라고요!"
+        ]
+    },
+    {
+        "restaurant_id": 1218830542,
+        "restaurant_name": "돼봉삼겹살 신논현점",
+        "summary": "고기 질이 좋고 맛있는 삼겹살을 제공하는 식당입니다.",
+        "strengths": [
+            "고기 질이 우수하다",
+            "다양한 메뉴와 양이 많다"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 8.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 질이 너무 좋고, 맛있어요!!! 🤍🤍",
+            "양도 많고 맛있었어요!! 사이드도 맛있음👍🏻👍🏻"
+        ]
+    },
+    {
+        "restaurant_id": 1098302664,
+        "restaurant_name": "석암생소금구이 강남점",
+        "summary": "고기와 짜파게티의 맛이 뛰어난 세련된 삼겹살 맛집",
+        "strengths": [
+            "고기 맛이 뛰어나고 질이 좋음",
+            "친절한 서비스와 세련된 분위기"
+        ],
+        "weaknesses": [
+            "양이 적다는 느낌이 있음"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 7.5
+        },
+        "evidence": [
+            "고기맛이 뛰어나며 특제소스가 정말 맛있어서 간만에 맛좋은 고기를 먹은것 같다.",
+            "돌판에 구워서 고기가 너무 맛있고 짜파게티도 꼭 드세요~!"
+        ]
+    },
+    {
+        "restaurant_id": 1134719233,
+        "restaurant_name": "땅코참숯구이 선릉점",
+        "summary": "고기 질과 맛이 뛰어나며, 친절한 서비스와 깔끔한 분위기로 재방문 의사가 높은 식당입니다.",
+        "strengths": [
+            "맛있는 고기와 다양한 메뉴",
+            "친절한 서비스와 깔끔한 매장"
+        ],
+        "weaknesses": [
+            "사이드 메뉴를 못 먹는 아쉬움"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "너무 맛있어요! 생각나서 수원에서 왔는데 그때보다 더 맛있는거 같아요!",
+            "매장도 깔끔하고 직접 친절하게 고기를 구워주시니 먹기편하고 좋아요."
+        ]
+    },
+    {
+        "restaurant_id": 1242805374,
+        "restaurant_name": "육달집 강남본점",
+        "summary": "고기 질과 맛이 뛰어나고 서비스가 친절한 편안한 고기집.",
+        "strengths": [
+            "고기 질이 우수하고 맛있음",
+            "편리한 서비스와 쾌적한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 질 자체가 좋아서 별다른 양념 없이도 맛있습니다.",
+            "매장 내부도 깔끔하고 기본 찬 구성도 과하지 않아 식사 내내 쾌적했습니다."
+        ]
+    },
+    {
+        "restaurant_id": 1214772199,
+        "restaurant_name": "정각 서울망원본점",
+        "summary": "고기 퀄리티와 서비스가 뛰어난 맛집으로, 편안한 식사가 가능하다.",
+        "strengths": [
+            "고기 퀄리티가 뛰어나고 육즙이 풍부하다.",
+            "직원들이 친절하게 구워주어 편안하게 식사할 수 있다."
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 퀄리티 미쳤어요! 돈치살, 살치살 등등 돼지고기 부위별로 씹는 맛과 육즙이 제대로 살아있습니다.",
+            "직원분들이 다 구워주셔서 제일 맛있는 상태로 편하게 먹었습니다."
+        ]
+    },
+    {
+        "restaurant_id": 1236412447,
+        "restaurant_name": "강남고기집 한판도 역삼본점",
+        "summary": "신선한 고기와 전복이 매력적인 회식 맛집",
+        "strengths": [
+            "고기의 신선함과 맛",
+            "콜키지 프리 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기는 육즙 완전 팡팡에 멜젓 1도 안비리고 반찬도 맛있고,, 삼합 최고예요!",
+            "고기가 너무 맛있고 구워주셔서 편하게 먹었네요!!"
+        ]
+    },
+    {
+        "restaurant_id": 1234407239,
+        "restaurant_name": "흑벽돌집 논현본점",
+        "summary": "신선한 고기와 친절한 서비스로 재방문 의사가 높은 고깃집.",
+        "strengths": [
+            "고기의 신선도와 맛이 뛰어남",
+            "친절한 직원과 좋은 분위기"
+        ],
+        "weaknesses": [
+            "직원 간의 소통 문제"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 8.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기도 신선하고 잡내없고 맛있어요",
+            "직접 구워주셔서 먹기 편하고 삼겹살이 두툼해서 육즙이 흘러서 너무 맛있어요"
+        ]
+    },
+    {
+        "restaurant_id": 1268167159,
+        "restaurant_name": "고기꾼김춘배 공덕직영점",
+        "summary": "고기 질과 맛이 뛰어나며, 초벌구이로 편리한 식사가 가능한 맛집입니다.",
+        "strengths": [
+            "고기 질이 좋고 맛있음",
+            "초벌구이로 편리하게 식사 가능"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 초벌돼서 나와서 먹기 편하고 너무 맛있어요!!",
+            "고기 질도 좋고 내부도 깔끔해요!!"
+        ]
+    },
+    {
+        "restaurant_id": 1275553707,
+        "restaurant_name": "육성급 삼성본점",
+        "summary": "고기와 서비스가 뛰어난 맛집으로, 재방문 의사가 높은 곳입니다.",
+        "strengths": [
+            "고기의 맛과 다양성이 뛰어남",
+            "직원들의 친절한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "너무맛있어요!! 다양한 메뉴들이 있어서 더 좋았습니다",
+            "직원분들 너무 친절하시구 직접 구워주셔서 좋았어요!!"
+        ]
+    },
+    {
+        "restaurant_id": 1287775548,
+        "restaurant_name": "홍대 육지",
+        "summary": "고기와 분위기가 뛰어난 맛집으로, 친절한 서비스가 돋보입니다.",
+        "strengths": [
+            "고기 질이 좋고 맛있음",
+            "친절한 서비스와 좋은 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "직접 구워주시고 너무 편하고 맛난게 먹었어요!",
+            "고기 육즙이 풍부해서 정말 맛있었습니다."
+        ]
+    },
+    {
+        "restaurant_id": 1571809839,
+        "restaurant_name": "신수로",
+        "summary": "고기와 서비스 모두 훌륭한 애견동반 가능 고깃집",
+        "strengths": [
+            "고기의 신선도와 맛이 뛰어남",
+            "친절하고 세심한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 본연의 맛을 중요하게 생각하는 편인데, 도끼살 한 점을 입에 넣는 순간 육즙이 기대를 훌쩍 넘어서더라고요.",
+            "직원분이 소란스럽지 않게 조용히 살펴봐 주셔서 식사에 집중할 수 있었어요."
+        ]
+    },
+    {
+        "restaurant_id": 1415235296,
+        "restaurant_name": "호보식당 신사역직영점",
+        "summary": "고기 질과 맛이 뛰어나며, 친절한 서비스와 쾌적한 분위기가 돋보이는 식당입니다.",
+        "strengths": [
+            "고기 질이 좋고 맛있음",
+            "친절한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 질도 좋고 너무 맛있어요",
+            "직원분들도 친절하시고"
+        ]
+    },
+    {
+        "restaurant_id": 1435091999,
+        "restaurant_name": "대패마켙 강남논현점",
+        "summary": "가성비 좋은 맛있는 고기와 청결한 셀프바가 매력적인 식당입니다.",
+        "strengths": [
+            "고기 질이 좋고 가격이 저렴함",
+            "청결한 셀프바와 다양한 야채 제공"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.5,
+            "atmosphere": 8.5,
+            "value": 9.5
+        },
+        "evidence": [
+            "맛있는 고기를 저렴한 가격으로 먹을 수 있어서 다음에 또 오고싶어요",
+            "가격대비 고기도 맛있고 샐러드바도 청결하고 전체적으로 10점 만점에 100점이에오!"
+        ]
+    },
+    {
+        "restaurant_id": 1785772528,
+        "restaurant_name": "돈육지존 역삼역본점",
+        "summary": "역삼역 최고의 삼겹살 맛집으로, 고기와 서비스 모두 뛰어난 곳입니다.",
+        "strengths": [
+            "뼈삼겹과 고기의 맛이 뛰어남",
+            "사장님의 친절한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "역삼역에서 삼겹살집 여러 군데 가봤지만 돈육지존이 최고네요.",
+            "사장님께서 엄청 친절하시고 고기에 대한 설명도 자세히 해주셔서 더 믿고 먹을 수 있었어요."
+        ]
+    },
+    {
+        "restaurant_id": 1817134114,
+        "restaurant_name": "대봉집 신사본점",
+        "summary": "고기와 사이드 메뉴가 맛있고 서비스가 뛰어난 신사동의 인기 맛집.",
+        "strengths": [
+            "고기의 맛과 품질이 뛰어남",
+            "친절한 서비스와 다양한 사이드 메뉴"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기가 너무 맛있고 무엇보다 콜키지를 했는데 시원한 잔을 주시는 센스도 너무 좋습니다",
+            "삼겹살 퀄리티 너무좋고, 콩나물 김치 조합이 넘 맛있었어요"
+        ]
+    },
+    {
+        "restaurant_id": 1915284644,
+        "restaurant_name": "산솔 신논현점",
+        "summary": "맛있는 안주와 좋은 분위기로 인스타그램에 최적화된 식당",
+        "strengths": [
+            "맛있는 안주와 다양한 메뉴",
+            "좋은 분위기와 청결한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.5,
+            "value": 8.5
+        },
+        "evidence": [
+            "안주가 이렇게 맛있으면 술을 멈출 수가 없잖아요",
+            "매장이 청결해서 위생적으로 안심이 됩니다"
+        ]
+    },
+    {
+        "restaurant_id": 1672141709,
+        "restaurant_name": "육즙관리소 양재역점",
+        "summary": "고기 질과 다양한 반찬이 뛰어난 고깃집으로, 가족 모임이나 데이트에 적합한 쾌적한 분위기를 제공한다.",
+        "strengths": [
+            "고기 질이 매우 좋음",
+            "다양한 반찬과 소스 제공"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 질 너무 좋고 반찬들 소스들도 너무 맛있습니다.",
+            "고기 직접 구워주셔서 편하고, 곁들여 먹을 수 있는게 많아서 좋았어요."
+        ]
+    },
+    {
+        "restaurant_id": 1835404105,
+        "restaurant_name": "동남회관 역삼점",
+        "summary": "고기 질이 좋고 맛있는 식당으로, 깔끔한 반찬과 그릴링 서비스가 호평받고 있습니다.",
+        "strengths": [
+            "고기 질이 좋고 맛있음",
+            "깔끔한 반찬과 그릴링 서비스"
+        ],
+        "weaknesses": [
+            "고기 양이 적다는 의견"
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 7.5
+        },
+        "evidence": [
+            "고기들 질도 좋고 너무 맛있어요!ㅎㅎ",
+            "고기가 꽤나 두툼하고 커서 크게 먹는거 좋아하시는 분들이 오시면 좋아하실거 같아요!"
+        ]
+    },
+    {
+        "restaurant_id": 1918906580,
+        "restaurant_name": "원조부안집 마포직영점",
+        "summary": "신선한 고기와 친절한 서비스로 만족스러운 식사를 제공하는 마포역 맛집.",
+        "strengths": [
+            "신선한 고기와 다양한 밑반찬",
+            "친절한 서비스와 편안한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기 질이 정말 좋고 전체적으로 만족스러운 고깃집이었습니다.",
+            "직원분들도 너무 친절하시고 설명도 잘해주셔서 잘 먹고 갑니다!"
+        ]
+    },
+    {
+        "restaurant_id": 2012527100,
+        "restaurant_name": "마포진짜원조최대포 본점",
+        "summary": "넓고 깨끗한 매장에서 맛있는 고기를 친절한 서비스와 함께 즐길 수 있는 곳입니다.",
+        "strengths": [
+            "고기의 맛이 뛰어나고 질이 좋음",
+            "매장이 넓고 깨끗하여 쾌적함"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.5,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기는 역시나 맛있고 직원분들도 친절하십니당!",
+            "고기도 질기지 않고 맛있고 밥시키면 나오는 된장국 진짜 맛있으니 꼭 주문하세요!"
+        ]
+    },
+    {
+        "restaurant_id": 2006168564,
+        "restaurant_name": "남대 신사점",
+        "summary": "고기 질과 서비스가 뛰어난 맛집으로, 다양한 메뉴와 청결한 환경이 장점인 곳입니다.",
+        "strengths": [
+            "고기 질이 우수하고 맛이 뛰어남",
+            "친절한 서비스와 빠른 음식 제공"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 질이 정말 좋고 서비스도 완벽해서 감탄했음.",
+            "고기집은 역시 간이 포인트인데 여기는 짜지도 밍밍하지도 않아서 좋아요."
+        ]
+    },
+    {
+        "restaurant_id": 2000691957,
+        "restaurant_name": "태용불고기 용산",
+        "summary": "고기와 반찬의 품질이 뛰어난 맛집으로, 재방문 의사가 높은 곳입니다.",
+        "strengths": [
+            "고기 질이 좋고 맛있음",
+            "반찬 구성과 맛이 뛰어남"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 8.0,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 맛있어요! 낮술 최공",
+            "반찬도 엄청 많고 하나하나 맛있었으며 특히 고기가 질이 너무 좋아서 들어가는 줄도 모르고 먹고 가네요!"
+        ]
+    },
+    {
+        "restaurant_id": 1440556769,
+        "restaurant_name": "맹그르브삼겹살",
+        "summary": "가성비와 고기 질이 뛰어난 삼겹살 맛집",
+        "strengths": [
+            "우수한 가성비",
+            "신선하고 맛있는 고기"
+        ],
+        "weaknesses": [
+            "된장찌개가 매운 편"
+        ],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.5,
+            "value": 9.5
+        },
+        "evidence": [
+            "가성비 너무 좋고 고기 질이 너무 좋아요!",
+            "삼겹살은 기름기가 적당히 있고 쫄깃쫄깃해서 식감이 정말 좋았고, 함께 나온 반찬들도 신선하고 맛있었어요."
+        ]
+    },
+    {
+        "restaurant_id": 2019213726,
+        "restaurant_name": "석암생소금구이 한남점",
+        "summary": "고기 맛과 친절한 서비스로 재방문 의사가 높은 식당입니다.",
+        "strengths": [
+            "고기의 맛과 육즙이 뛰어남",
+            "친절한 서비스와 넉넉한 반찬"
+        ],
+        "weaknesses": [
+            "고기가 짜다는 의견이 있음"
+        ],
+        "scores": {
+            "taste": 8.5,
+            "service": 9.0,
+            "cleanliness": 8.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기가맛있고 사장님이 친절해요",
+            "고기도 짜고 짜파게티도 진한만있고 보통맛있어서 보통만 주문했는데 이것도 너무짬.."
+        ]
+    },
+    {
+        "restaurant_id": 2022601947,
+        "restaurant_name": "꿈에그린정육식당 강남구청점",
+        "summary": "신선한 고기와 다양한 반찬, 친절한 서비스로 만족스러운 식사를 제공하는 곳입니다.",
+        "strengths": [
+            "고기 퀄리티가 매우 높고 신선하다",
+            "친절한 서비스와 다양한 반찬 제공"
+        ],
+        "weaknesses": [
+            "상차림이 다소 아쉬움"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기가 너무 신선하고 맛있었어요",
+            "가성비 진짜 좋네요! 반찬도 많고 다 맛있어요!"
+        ]
+    },
+    {
+        "restaurant_id": 2019418380,
+        "restaurant_name": "돼지방앗간",
+        "summary": "망원동에서 맛있고 깔끔한 고기와 사이드 메뉴를 제공하는 신상 맛집.",
+        "strengths": [
+            "고기의 맛과 질이 뛰어남",
+            "친절한 서비스와 깔끔한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기도 너무 맛있고 들짜 너무 중독적이에요.",
+            "초벌되어서 나와서 기름기도 빠지고 기름도 덜튀어서 깔끔하게 먹기 좋아요!"
+        ]
+    },
+    {
+        "restaurant_id": 2026387608,
+        "restaurant_name": "대장육 마포점",
+        "summary": "고기 질과 맛이 뛰어나며, 친절한 서비스와 아늑한 분위기가 돋보이는 식당입니다.",
+        "strengths": [
+            "고기의 질과 맛이 뛰어남",
+            "친절한 서비스와 아늑한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 잡내가 전혀 없어서 끝까지 맛있게 먹었어요.",
+            "고기 질이 괜찮았고 구워먹는 재미도 있어서 좋았습니다."
+        ]
+    },
+    {
+        "restaurant_id": 2028075615,
+        "restaurant_name": "미아회관 송파직영점",
+        "summary": "음식의 맛과 직원의 친절함이 돋보이는 깔끔한 식당입니다.",
+        "strengths": [
+            "음식이 매우 맛있고 고기 질이 좋음",
+            "직원들이 친절하고 서비스가 우수함"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "음식도 너무 맛있고 가게도 깔끔하게 잘 관리되어있어요.",
+            "고기질도 좋고 직원들이 너무나 친절해요."
+        ]
+    },
+    {
+        "restaurant_id": 2044530165,
+        "restaurant_name": "부원냉삼집 대치동점",
+        "summary": "친절한 서비스와 맛있는 삼겹살로 만족스러운 경험을 제공하는 식당입니다.",
+        "strengths": [
+            "친절한 서비스",
+            "맛있는 삼겹살과 계란찜"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.5,
+            "cleanliness": 8.0,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "사장님도 너무 친절하시고 맛있게 잘 먹었습니다^^",
+            "고기가 너무 맛있고 특히 계란찜이 너무 탱글탱글하고 좋아요~"
+        ]
+    },
+    {
+        "restaurant_id": 2056659982,
+        "restaurant_name": "소뭉집 선릉직영점",
+        "summary": "맛있고 친절한 서비스가 돋보이는 쾌적한 식당",
+        "strengths": [
+            "맛있는 음식",
+            "친절한 서비스와 쾌적한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.5
+        },
+        "evidence": [
+            "너무맛있어요!",
+            "친절한 응대와 맛있는 음식 감사합니다"
+        ]
+    },
+    {
+        "restaurant_id": 2036132215,
+        "restaurant_name": "로코스비비큐 상수점",
+        "summary": "맛있고 친절한 서비스, 깨끗한 매장이 돋보이는 바베큐 식당",
+        "strengths": [
+            "맛있는 바베큐와 사이드 메뉴",
+            "친절한 서비스와 깨끗한 매장"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.5,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "바베큐도 넘 맛있고 매장도 너무 깨끗해요",
+            "사장님도 너무 친절하셔뇨오"
+        ]
+    },
+    {
+        "restaurant_id": 2060948347,
+        "restaurant_name": "육쌈마을 논현역본점",
+        "summary": "신선한 쌈 채소와 육즙 가득한 삼겹살로 유명한 논현역 맛집.",
+        "strengths": [
+            "신선한 쌈 채소와 다양한 조합",
+            "훌륭한 삼겹살의 육즙과 질"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 8.0,
+            "cleanliness": 8.5,
+            "atmosphere": 8.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "신선한 쌈 채소와 함께 푸짐하게 삼겹살을 즐길 수 있는 곳이에요.",
+            "고기 질도 너무 좋아서 굽자마자 육즙이 살아있고 진짜 쫀득쫀득했어요."
+        ]
+    },
+    {
+        "restaurant_id": 2045993714,
+        "restaurant_name": "육뇽",
+        "summary": "새로 오픈한 고깃집으로 맛과 서비스, 분위기가 뛰어난 곳입니다.",
+        "strengths": [
+            "고기의 맛과 질이 뛰어남",
+            "친절한 서비스와 깔끔한 분위기"
+        ],
+        "weaknesses": [
+            "가방을 둘 공간이 부족함"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 맛도 좋고 음식도 깔끔하네요 연남동에서 데이트 하기 좋은곳 같아요",
+            "고기는 모든 부위가 다 부드럽고 가지는 향이 대박이어서 버터 구이인줄 알았어요"
+        ]
+    },
+    {
+        "restaurant_id": 2049293785,
+        "restaurant_name": "초필살돼지구이 방이점",
+        "summary": "고기와 서비스 모두 뛰어난 방이동의 맛집",
+        "strengths": [
+            "고기의 신선함과 육즙이 뛰어남",
+            "친절한 직원과 좋은 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 8.5,
+            "atmosphere": 9.0,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 상태가 정말 신선하고 육질이 좋아 한 점 먹는 순간 왜 맛집인지 알겠더라고요.",
+            "직원분들이 친절하게 응대해주시고 굽는 방법도 잘 알려주셔서 더욱 맛있게 먹을 수 있었습니다."
+        ]
+    },
+    {
+        "restaurant_id": 2065212907,
+        "restaurant_name": "그을림",
+        "summary": "고기와 밑반찬의 조화가 뛰어난 맛집으로, 친절한 서비스와 좋은 분위기가 돋보인다.",
+        "strengths": [
+            "고기의 맛과 신선함",
+            "친절한 서비스와 다양한 밑반찬"
+        ],
+        "weaknesses": [
+            "웨이팅이 있다"
+        ],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기 너무 맛있고 무한리필 김치찌개도 넘 맛있어요!!",
+            "직원분 너무 친절하시고 고기 맛이랑 함께 곁들여 먹을 수 있는 밑반찬들이 다양해서 좋았어요"
+        ]
+    },
+    {
+        "restaurant_id": 2062344030,
+        "restaurant_name": "연남황제소갈비집",
+        "summary": "부드러운 소갈비와 친절한 서비스로 만족스러운 식사를 제공하는 맛집.",
+        "strengths": [
+            "고기의 질이 뛰어나고 맛이 좋음",
+            "친절한 직원과 깔끔한 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.5,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "소갈비가 정말 부드럽고 맛있어서 만족스러운 식사였어요.",
+            "고기 질이 좋아 입안에서 살살 녹는 느낌이었고 양념도 과하지 않아 고기 본연의 맛을 제대로 즐길 수 있었어요."
+        ]
+    },
+    {
+        "restaurant_id": 2086754120,
+        "restaurant_name": "인생제육 망원점",
+        "summary": "친절한 서비스와 맛있는 제육볶음으로 재방문 의사가 높다.",
+        "strengths": [
+            "친절한 사장님",
+            "맛있는 불맛 제육"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 0.0,
+            "atmosphere": 0.0,
+            "value": 0.0
+        },
+        "evidence": [
+            "사장님 두분 친절하시공",
+            "불맛 제육 마싯정"
+        ]
+    },
+    {
+        "restaurant_id": 2093675869,
+        "restaurant_name": "성산제줏간 까치산점",
+        "summary": "맛있는 고기와 친절한 서비스로 재방문 의사가 높은 인기 고깃집",
+        "strengths": [
+            "고기의 맛과 품질이 뛰어남",
+            "친절한 서비스와 깔끔한 인테리어"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 9.0
+        },
+        "evidence": [
+            "고기가 맛있어서 또 오고싶어요",
+            "고기면 고기, 반찬이면 반찬 끝내줍니다"
+        ]
+    },
+    {
+        "restaurant_id": 2089541139,
+        "restaurant_name": "현대고기담 강남 압구정점",
+        "summary": "고기 질과 맛이 뛰어나며, 쾌적한 분위기와 친절한 서비스가 돋보이는 식당입니다.",
+        "strengths": [
+            "고기 질과 육즙이 뛰어남",
+            "깔끔하고 넓은 매장 분위기"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기가 쫄깃하면서도 육즙이 미침",
+            "고기질이 정말 최고급이네요!"
+        ]
+    },
+    {
+        "restaurant_id": 2098137590,
+        "restaurant_name": "오늘도등심",
+        "summary": "고품질의 한우와 친절한 서비스로 만족스러운 식사를 제공하는 고기집.",
+        "strengths": [
+            "신선하고 질 좋은 고기",
+            "친절한 직원 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 8.5,
+            "value": 8.5
+        },
+        "evidence": [
+            "고기 결이 살아있는 게 한눈에 보이더라고요.",
+            "육사시미가 입에서 살살 녹는 느낌이라 정말 만족스러웠어요."
+        ]
+    },
+    {
+        "restaurant_id": 2070897577,
+        "restaurant_name": "보성갈비 문정점",
+        "summary": "고기와 청결도가 뛰어난 고깃집으로, 친절한 서비스가 돋보입니다.",
+        "strengths": [
+            "고기의 맛과 육즙이 뛰어나다",
+            "매장 청결도가 매우 높다",
+            "친절한 서비스"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.0,
+            "service": 9.0,
+            "cleanliness": 10.0,
+            "atmosphere": 8.5,
+            "value": 8.0
+        },
+        "evidence": [
+            "고기도 좋고 맛있어요 사장님도 친절하십니다 재방문각!!",
+            "매장 청결도가 진짜 최고였어요! 쾌적한 환경에서 식사하니 더욱 좋았습니다."
+        ]
+    },
+    {
+        "restaurant_id": 2069017665,
+        "restaurant_name": "맡김",
+        "summary": "맛과 서비스, 분위기 모두 뛰어난 매력적인 식당입니다.",
+        "strengths": [
+            "정갈한 기본 안주와 빠른 서비스",
+            "신선한 재료와 뛰어난 맛의 조화"
+        ],
+        "weaknesses": [],
+        "scores": {
+            "taste": 9.5,
+            "service": 9.0,
+            "cleanliness": 9.0,
+            "atmosphere": 9.0,
+            "value": 8.5
+        },
+        "evidence": [
+            "푸욱 익혀 깊은 맛이 배어든 무를 포함한 정갈한 기본 안주부터 이곳의 정성이 느껴집니다.",
+            "고기가 잡내도 없고, 한식 스타일이면서 돼지고기 부위별로 구워주는게 가볍게 고기가 땡길 때 방문하면 좋을거 같아요."
+        ]
+    }
+]
