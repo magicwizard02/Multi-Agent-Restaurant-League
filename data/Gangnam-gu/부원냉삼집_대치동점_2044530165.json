@@ -1,0 +1,927 @@
+{
+    "restaurant_info": {
+        "name": "부원냉삼집 대치동점",
+        "category": "돼지고기구이",
+        "address": "서울 강남구 대치동 626",
+        "road_address": "서울 강남구 남부순환로 2917 청실상가동 1층 102-가호, 102-나호",
+        "phone": "0507-1361-6157",
+        "visitor_review_count": 57,
+        "blog_review_count": 7,
+        "booking_available": false,
+        "business_hours": null,
+        "additional_info": {
+            "편의시설": [
+                "무선 인터넷",
+                "남/녀 화장실 구분"
+            ],
+            "결제수단": [],
+            "찾아오는길_및_주차안내": ""
+        }
+    },
+    "review_stats": {
+        "total_reviews_on_naver": 57,
+        "total_extracted_reviews": 100
+    },
+    "reviews": [
+        {
+            "id": "6a27e3533eb0c47eb6a056c9",
+            "author": "나나4122",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.09.",
+            "reply": null
+        },
+        {
+            "id": "6a26bbd94fc835b1c163b53e",
+            "author": "예쁜엄마234",
+            "rating": null,
+            "body": "너무 맛있어요. 동네에 생겨서 진심 기쁘네요. 빨리 익고 빨리 많이 먹을 수 있어서 엄청 편하고 좋네요 😆",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a26bcbc5fe636804a4a5821",
+            "author": "kicpa94",
+            "rating": null,
+            "body": "토욜에 오고 이틀만에 또 왔어요. 음식 너무 맛있습니다.",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a269ba92ce50ebd6039615d",
+            "author": "new****",
+            "rating": null,
+            "body": "계란찜 꼭 시키세요 존맛이에요 \n고기도 싸고 맛있어요",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a23f69dd6b9607beb68933b",
+            "author": "al****",
+            "rating": null,
+            "body": "동네에없었던 냉삼집 넘맛나고 친절해요 대기가있을수있어요 일찍일찍오셔야할듯",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23c6e1e5000d7988dd550c",
+            "author": "토블론70",
+            "rating": null,
+            "body": "가까운 곳에 맛있는 냉삼집이 생겨서 넘  좋아요!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22d5abfc30e4847a1ab1dc",
+            "author": "푸름이65",
+            "rating": null,
+            "body": "넘 맛있었어요^^\n넘 친절합니다 홧팅^^",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22bf44fa8810510f0fe34d",
+            "author": "cnaezn",
+            "rating": null,
+            "body": "너무 친절하시고 맛있어요~~~~! 번창하세요",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22bbde26d5e9ae4e4655bc",
+            "author": "레이보우46",
+            "rating": null,
+            "body": "30분기다려서 겨우들어왔어요 완전맛있어요!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a229e70e5000d7988f3f041",
+            "author": "LikeMood",
+            "rating": null,
+            "body": "남친 추천으로 왔어요!!! 6시전에왔는데도 웨이팅있네요 ㄷㄷ 매장 깔끔하구, 반찬 푸짐하게 잘나오구, 고기 넘 맛있어요!!! 냉삼이 이렇게 맛있네여",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a24fd613d5c3eddf1f9d",
+            "author": "Tina52",
+            "rating": null,
+            "body": "삼겹살이 맛있어요",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a216de11e41b92220774b58",
+            "author": "ali****",
+            "rating": null,
+            "body": "",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a220f94762938b7860b72dd",
+            "author": "qkq****",
+            "rating": null,
+            "body": "동네에 삼겹살집이 생겨서 반가운 마음에 방문했어요! 사장님 친절하시고, 고기도 너무 맛있고, 특히 계란찜 부들부들 너무 맛있구요! 밀냉면도 맛있어요! \n30분도 넘게 기다렸지만, 그래도 맛있으니 또 갈꺼에요~ \n갈비도 진짜 맛있었습니다! ㅎㅎ",
+            "created": "6.5.금",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a2158b10a8d8da1e628ce17",
+            "author": "luc****",
+            "rating": null,
+            "body": "대치동 새로 생긴 고깃집 웨이팅이 길었는데너무 맛있게 먹었습니다!!",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a214e9efe7a991256665e27",
+            "author": "reaco",
+            "rating": null,
+            "body": "비오는 날 냉삼에 쏘주 한 잔하기 좋은 날에 맛있게 먹고 갑니다~~ :) 특히나 껍데기가 너무 맛있어요~~",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a200dc6efb4004495914dd7",
+            "author": "bri****",
+            "rating": null,
+            "body": "신선하고 맛이 좋습니다!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a200531935d5d9b5abe583d",
+            "author": "ixj****",
+            "rating": null,
+            "body": "고기는 신선하고, 반찬들은 다 맛있고, 직원분들도 너무 친절한 집입니다!! 근처에 고깃집이 참 없었는데, 이렇게 좋은 집이 들어와서 감사할 따름입니다 (:\n좋은 시간 보내고 갈 수 있어 정말 감사드립니다!!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ffe882e068174353c87f6",
+            "author": "ywf****",
+            "rating": null,
+            "body": "맛있게 잘 먹겠습니다.\n대기가 길어서 더 기대되네요.",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fe7e5c260b5461821be83",
+            "author": "min****",
+            "rating": null,
+            "body": "고기 질이 너무 좋아요!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a20baa2685a1a892ba696bd",
+            "author": "튼튼라라",
+            "rating": null,
+            "body": "고기가 맛있었어요~ 예약이 안되는건 아쉬웠지만 친절하고 깨끗해서 좋았습니다. 번창하세요^^",
+            "created": "6.4.목",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa3862ab5126ed0a3902b",
+            "author": "ami****",
+            "rating": null,
+            "body": "맛있고 직원분들이 친절해서 또 오고 싶어용!",
+            "created": "5.30.토",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a198395fe4c34246604cba3",
+            "author": "쿠버엄마",
+            "rating": null,
+            "body": "사장님 친절하시구 고기도 넘 맛있었요~!!👍\n아이랑 맛있게 잘 먹었습니다 😊",
+            "created": "5.29.금",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a1ad39e38f98a732f7be2d1",
+            "author": "sinally31",
+            "rating": null,
+            "body": "새로생겨서 와봤는데 생각보다 고기 퀄리티 좋고 맛있어요",
+            "created": "5.30.토",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a197ff4c942c1f1c04d1c5b",
+            "author": "쪼꼬아87",
+            "rating": null,
+            "body": "신규로 생기고 첫 방문입니다\n대기가 좀 있지만 고기와 식사 만족합니다",
+            "created": "5.29.금",
+            "visited_date": "2026.05.28.",
+            "reply": null
+        },
+        {
+            "id": "6a197648ccb45d8b4955d44f",
+            "author": "doosik jang",
+            "rating": null,
+            "body": "급랭 삼겹살 너무 맛나요 ^^ 자주 올 거 같아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.28.",
+            "reply": null
+        },
+        {
+            "id": "6a16d49693ce45da8128fe8e",
+            "author": "밀크티1995",
+            "rating": null,
+            "body": "새로 생긴 고기집이라 방문했는데 고기질이 좋아요~",
+            "created": "5.27.수",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a182f0e0a3948b39dfe4729",
+            "author": "em****",
+            "rating": null,
+            "body": "넘맛있어요!!!!!! 기다린가치가있어요",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a157d2dc23479c73738c869",
+            "author": "타임짱",
+            "rating": null,
+            "body": "순식간에 먹어서 사진이 없을 정도로 맛있다 !!!!\n냉삼이랑 이런것!!잠수교네 안부럽다 ㅋ",
+            "created": "5.26.화",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a18307b6c0f70bc420f539f",
+            "author": "코코739292016",
+            "rating": null,
+            "body": "부모님이랑 처음 와봤는데 너무 좋았어요!! 냉삼이 생각보다 얇지않아서 더더 좋았습니다🤤 그리고 사장님 너무 친절하세요🩷",
+            "created": "5.28.목",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a1195a5e8dec4fedd298f8b",
+            "author": "해바라기45",
+            "rating": null,
+            "body": "맛있어요 대기시간 있으니 미리 예약",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a140bfc1f12be1944f91d19",
+            "author": "smk****",
+            "rating": null,
+            "body": "고기가 너무 맛있고 특히 계란찜이 너무 탱글탱글하고 좋아요~  1+등급 삼겹살만 써서 안심도 돼요~^^🥩🩷",
+            "created": "5.25.월",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a104b453769ebcb4f17b5cd",
+            "author": "blo****",
+            "rating": null,
+            "body": "가족들과 두번째 방문입니다. 너무 친절하시고 맛있어요. 오래오래 잘 운영되었으면 합니다.^^",
+            "created": "5.22.금",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a1160a3e1f343e0112287e3",
+            "author": "Juice wrld",
+            "rating": null,
+            "body": "고기가 너무 맛있어요~~~\n동네에 이런 곳이 생겨서 좋네요\n직원분들도 친절하십니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a0ee223fddd22ac56610612",
+            "author": "wiwiwiwi44",
+            "rating": null,
+            "body": "맛있게 잘 먹었습니다!!",
+            "created": "5.21.목",
+            "visited_date": "2026.05.21.",
+            "reply": null
+        },
+        {
+            "id": "6a0ee57bbfa1e7e5d6e26494",
+            "author": "minjik79",
+            "rating": null,
+            "body": "대치동에 맛있는 삼겹살집이 생겼네요.\n삼겹살 먹고싶을때마다 방문 예정입니다. \n사장님도 너무 친절하시고 맛있게 잘 먹었습니다^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.21.",
+            "reply": null
+        },
+        {
+            "id": "6a0eb53934a34c42abf41590",
+            "author": "joo****",
+            "rating": null,
+            "body": "새로 생겨서 와봤는데 맛있어요 좀 늦으면 대기라길래 문열자마자 왔더니 바로 들어오긴했어요 가성비도 최곤데 고기질도 엄청 좋네요 번창하시고 오래하셔요 계속 오려구요~~^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.20.",
+            "reply": null
+        },
+        {
+            "id": "6a0ed5572fe3af0c5a25d38c",
+            "author": "리진2844",
+            "rating": null,
+            "body": "처음 와봤는데 너무 친절하시고 고기도 너무 맛있네용!! 앞으로 자주 오게 될것같네여^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.20.",
+            "reply": null
+        },
+        {
+            "id": "6a0ad0073b1819ec3dca5fb8",
+            "author": "hyu****",
+            "rating": null,
+            "body": "",
+            "created": "5.18.월",
+            "visited_date": "2026.05.16.",
+            "reply": null
+        },
+        {
+            "id": "6a087463abb133e84e41e1ad",
+            "author": "FORESEEA",
+            "rating": null,
+            "body": "고기가 진짜 맛있었어요\n특히 계란찜 너무맛있어서 두번시켜먹었네요.\n밥이 품절된건 아쉬웠지만 다음에 또 올거같아요\n옆에서 진상손님 대응하시는거보고 친절하시다고 느꼈어요. 앞으로도 쭉 운영해주심 좋겠습니당",
+            "created": "5.16.토",
+            "visited_date": "2026.05.16.",
+            "reply": null
+        },
+        {
+            "id": "6a0717970c0bb2fde1490daa",
+            "author": "kicpa94",
+            "rating": null,
+            "body": "밤늦게 왔는데 정멀  있습니다. 친절하시구요.",
+            "created": "5.15.금",
+            "visited_date": "2026.05.15.",
+            "reply": null
+        },
+        {
+            "id": "6a05a6bd65d678aa1f32367c",
+            "author": "dnj****",
+            "rating": null,
+            "body": "고기가 질이 너무 좋습니다 \n대치에 냉삼집 생겨 좋네요❣️",
+            "created": "5.14.목",
+            "visited_date": "2026.05.14.",
+            "reply": null
+        },
+        {
+            "id": "6a047db9d17b0d3844a4c099",
+            "author": "k2pier38",
+            "rating": null,
+            "body": "",
+            "created": "5.13.수",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a05aab7530243f99a6f0f54",
+            "author": "moscowsj",
+            "rating": null,
+            "body": "대기가 길긴 한데 너무 친절하시고 고기가 맛있어요!",
+            "created": "5.14.목",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a0868307be1e324bcf8151c",
+            "author": "gjr****",
+            "rating": null,
+            "body": "냉삼집 집앞에 생겨서 좋네요~고기가 맛있어요!\n종종 오겠습니다~^^",
+            "created": "5.16.토",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a032b46cc81dc4c1bc7d9c8",
+            "author": "per****",
+            "rating": null,
+            "body": "냉삼 매니아인데 집앞에 냉삼집이 생겨서 너무 행복합니다. 사장님 감사합니다",
+            "created": "5.12.화",
+            "visited_date": "2026.05.12.",
+            "reply": null
+        },
+        {
+            "id": "6a085c1c45cf21c07913a65c",
+            "author": "rty****",
+            "rating": null,
+            "body": "때깔을 보세요\n개맛잇어요\n강추 굳굳",
+            "created": "5.16.토",
+            "visited_date": "2026.05.12.",
+            "reply": null
+        },
+        {
+            "id": "6a04338a2d4546a1b15beda4",
+            "author": "또치짱86",
+            "rating": null,
+            "body": "아이가 냉삼을 좋아하는데 동네에 생겨서 너무 좋네요♡",
+            "created": "5.13.수",
+            "visited_date": "2026.05.11.",
+            "reply": null
+        },
+        {
+            "id": "6a05bd34a16194c4892643ff",
+            "author": "wdg****",
+            "rating": null,
+            "body": "진짜 맛있어요 \n기다린 보람이 있습니다\n양도 푸짐하고 완전 만족합니다!",
+            "created": "5.14.목",
+            "visited_date": "2026.05.11.",
+            "reply": null
+        },
+        {
+            "id": "69ffe48bb19cc990b9dc3adf",
+            "author": "김김김2397",
+            "rating": null,
+            "body": "집근처에 냉삼집이 생겨서 방문해봤습니다.\n냉삼, 냉동가브리살, 항정살 세트메뉴 먹었는데 고기도 괜찮고 양도 많아서 가족 모두 맛있게 잘 먹었어요. 먹느라 바빠서 사진한장 없지만 앞으로도 자주 편하게 갈 집이 생긴것 같아 좋아요 😀",
+            "created": "5.10.일",
+            "visited_date": "2026.05.09.",
+            "reply": null
+        },
+        {
+            "id": "69ff00805a9c1171003c92e8",
+            "author": "노즈힐21",
+            "rating": null,
+            "body": "넘 맛있어서 사진도 못찍고 먹었네요^^;\n동네에 삼겹살집 생겨서 좋아요",
+            "created": "5.9.토",
+            "visited_date": "2026.05.09.",
+            "reply": null
+        },
+        {
+            "id": "6a27e3533eb0c47eb6a056c9",
+            "author": "나나4122",
+            "rating": null,
+            "body": "",
+            "created": "6.9.화",
+            "visited_date": "2026.06.09.",
+            "reply": null
+        },
+        {
+            "id": "6a26bbd94fc835b1c163b53e",
+            "author": "예쁜엄마234",
+            "rating": null,
+            "body": "너무 맛있어요. 동네에 생겨서 진심 기쁘네요. 빨리 익고 빨리 많이 먹을 수 있어서 엄청 편하고 좋네요 😆",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a26bcbc5fe636804a4a5821",
+            "author": "kicpa94",
+            "rating": null,
+            "body": "토욜에 오고 이틀만에 또 왔어요. 음식 너무 맛있습니다.",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a269ba92ce50ebd6039615d",
+            "author": "new****",
+            "rating": null,
+            "body": "계란찜 꼭 시키세요 존맛이에요 \n고기도 싸고 맛있어요",
+            "created": "6.8.월",
+            "visited_date": "2026.06.08.",
+            "reply": null
+        },
+        {
+            "id": "6a23f69dd6b9607beb68933b",
+            "author": "al****",
+            "rating": null,
+            "body": "동네에없었던 냉삼집 넘맛나고 친절해요 대기가있을수있어요 일찍일찍오셔야할듯",
+            "created": "6.6.토",
+            "visited_date": "2026.06.06.",
+            "reply": null
+        },
+        {
+            "id": "6a23c6e1e5000d7988dd550c",
+            "author": "토블론70",
+            "rating": null,
+            "body": "가까운 곳에 맛있는 냉삼집이 생겨서 넘  좋아요!!",
+            "created": "6.6.토",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22d5abfc30e4847a1ab1dc",
+            "author": "푸름이65",
+            "rating": null,
+            "body": "넘 맛있었어요^^\n넘 친절합니다 홧팅^^",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22bf44fa8810510f0fe34d",
+            "author": "cnaezn",
+            "rating": null,
+            "body": "너무 친절하시고 맛있어요~~~~! 번창하세요",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22bbde26d5e9ae4e4655bc",
+            "author": "레이보우46",
+            "rating": null,
+            "body": "30분기다려서 겨우들어왔어요 완전맛있어요!!!",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a229e70e5000d7988f3f041",
+            "author": "LikeMood",
+            "rating": null,
+            "body": "남친 추천으로 왔어요!!! 6시전에왔는데도 웨이팅있네요 ㄷㄷ 매장 깔끔하구, 반찬 푸짐하게 잘나오구, 고기 넘 맛있어요!!! 냉삼이 이렇게 맛있네여",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a22a24fd613d5c3eddf1f9d",
+            "author": "Tina52",
+            "rating": null,
+            "body": "삼겹살이 맛있어요",
+            "created": "6.5.금",
+            "visited_date": "2026.06.05.",
+            "reply": null
+        },
+        {
+            "id": "6a216de11e41b92220774b58",
+            "author": "ali****",
+            "rating": null,
+            "body": "",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a220f94762938b7860b72dd",
+            "author": "qkq****",
+            "rating": null,
+            "body": "동네에 삼겹살집이 생겨서 반가운 마음에 방문했어요! 사장님 친절하시고, 고기도 너무 맛있고, 특히 계란찜 부들부들 너무 맛있구요! 밀냉면도 맛있어요! \n30분도 넘게 기다렸지만, 그래도 맛있으니 또 갈꺼에요~ \n갈비도 진짜 맛있었습니다! ㅎㅎ",
+            "created": "6.5.금",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a2158b10a8d8da1e628ce17",
+            "author": "luc****",
+            "rating": null,
+            "body": "대치동 새로 생긴 고깃집 웨이팅이 길었는데너무 맛있게 먹었습니다!!",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a214e9efe7a991256665e27",
+            "author": "reaco",
+            "rating": null,
+            "body": "비오는 날 냉삼에 쏘주 한 잔하기 좋은 날에 맛있게 먹고 갑니다~~ :) 특히나 껍데기가 너무 맛있어요~~",
+            "created": "6.4.목",
+            "visited_date": "2026.06.04.",
+            "reply": null
+        },
+        {
+            "id": "6a200dc6efb4004495914dd7",
+            "author": "bri****",
+            "rating": null,
+            "body": "신선하고 맛이 좋습니다!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a200531935d5d9b5abe583d",
+            "author": "ixj****",
+            "rating": null,
+            "body": "고기는 신선하고, 반찬들은 다 맛있고, 직원분들도 너무 친절한 집입니다!! 근처에 고깃집이 참 없었는데, 이렇게 좋은 집이 들어와서 감사할 따름입니다 (:\n좋은 시간 보내고 갈 수 있어 정말 감사드립니다!!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1ffe882e068174353c87f6",
+            "author": "ywf****",
+            "rating": null,
+            "body": "맛있게 잘 먹겠습니다.\n대기가 길어서 더 기대되네요.",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1fe7e5c260b5461821be83",
+            "author": "min****",
+            "rating": null,
+            "body": "고기 질이 너무 좋아요!",
+            "created": "6.3.수",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a20baa2685a1a892ba696bd",
+            "author": "튼튼라라",
+            "rating": null,
+            "body": "고기가 맛있었어요~ 예약이 안되는건 아쉬웠지만 친절하고 깨끗해서 좋았습니다. 번창하세요^^",
+            "created": "6.4.목",
+            "visited_date": "2026.06.03.",
+            "reply": null
+        },
+        {
+            "id": "6a1aa3862ab5126ed0a3902b",
+            "author": "ami****",
+            "rating": null,
+            "body": "맛있고 직원분들이 친절해서 또 오고 싶어용!",
+            "created": "5.30.토",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a198395fe4c34246604cba3",
+            "author": "쿠버엄마",
+            "rating": null,
+            "body": "사장님 친절하시구 고기도 넘 맛있었요~!!👍\n아이랑 맛있게 잘 먹었습니다 😊",
+            "created": "5.29.금",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a1ad39e38f98a732f7be2d1",
+            "author": "sinally31",
+            "rating": null,
+            "body": "새로생겨서 와봤는데 생각보다 고기 퀄리티 좋고 맛있어요",
+            "created": "5.30.토",
+            "visited_date": "2026.05.29.",
+            "reply": null
+        },
+        {
+            "id": "6a197ff4c942c1f1c04d1c5b",
+            "author": "쪼꼬아87",
+            "rating": null,
+            "body": "신규로 생기고 첫 방문입니다\n대기가 좀 있지만 고기와 식사 만족합니다",
+            "created": "5.29.금",
+            "visited_date": "2026.05.28.",
+            "reply": null
+        },
+        {
+            "id": "6a197648ccb45d8b4955d44f",
+            "author": "doosik jang",
+            "rating": null,
+            "body": "급랭 삼겹살 너무 맛나요 ^^ 자주 올 거 같아요",
+            "created": "5.29.금",
+            "visited_date": "2026.05.28.",
+            "reply": null
+        },
+        {
+            "id": "6a16d49693ce45da8128fe8e",
+            "author": "밀크티1995",
+            "rating": null,
+            "body": "새로 생긴 고기집이라 방문했는데 고기질이 좋아요~",
+            "created": "5.27.수",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a182f0e0a3948b39dfe4729",
+            "author": "em****",
+            "rating": null,
+            "body": "넘맛있어요!!!!!! 기다린가치가있어요",
+            "created": "5.28.목",
+            "visited_date": "2026.05.27.",
+            "reply": null
+        },
+        {
+            "id": "6a157d2dc23479c73738c869",
+            "author": "타임짱",
+            "rating": null,
+            "body": "순식간에 먹어서 사진이 없을 정도로 맛있다 !!!!\n냉삼이랑 이런것!!잠수교네 안부럽다 ㅋ",
+            "created": "5.26.화",
+            "visited_date": "2026.05.26.",
+            "reply": null
+        },
+        {
+            "id": "6a18307b6c0f70bc420f539f",
+            "author": "코코739292016",
+            "rating": null,
+            "body": "부모님이랑 처음 와봤는데 너무 좋았어요!! 냉삼이 생각보다 얇지않아서 더더 좋았습니다🤤 그리고 사장님 너무 친절하세요🩷",
+            "created": "5.28.목",
+            "visited_date": "2026.05.25.",
+            "reply": null
+        },
+        {
+            "id": "6a1195a5e8dec4fedd298f8b",
+            "author": "해바라기45",
+            "rating": null,
+            "body": "맛있어요 대기시간 있으니 미리 예약",
+            "created": "5.23.토",
+            "visited_date": "2026.05.23.",
+            "reply": null
+        },
+        {
+            "id": "6a140bfc1f12be1944f91d19",
+            "author": "smk****",
+            "rating": null,
+            "body": "고기가 너무 맛있고 특히 계란찜이 너무 탱글탱글하고 좋아요~  1+등급 삼겹살만 써서 안심도 돼요~^^🥩🩷",
+            "created": "5.25.월",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a104b453769ebcb4f17b5cd",
+            "author": "blo****",
+            "rating": null,
+            "body": "가족들과 두번째 방문입니다. 너무 친절하시고 맛있어요. 오래오래 잘 운영되었으면 합니다.^^",
+            "created": "5.22.금",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a1160a3e1f343e0112287e3",
+            "author": "Juice wrld",
+            "rating": null,
+            "body": "고기가 너무 맛있어요~~~\n동네에 이런 곳이 생겨서 좋네요\n직원분들도 친절하십니다",
+            "created": "5.23.토",
+            "visited_date": "2026.05.22.",
+            "reply": null
+        },
+        {
+            "id": "6a0ee223fddd22ac56610612",
+            "author": "wiwiwiwi44",
+            "rating": null,
+            "body": "맛있게 잘 먹었습니다!!",
+            "created": "5.21.목",
+            "visited_date": "2026.05.21.",
+            "reply": null
+        },
+        {
+            "id": "6a0ee57bbfa1e7e5d6e26494",
+            "author": "minjik79",
+            "rating": null,
+            "body": "대치동에 맛있는 삼겹살집이 생겼네요.\n삼겹살 먹고싶을때마다 방문 예정입니다. \n사장님도 너무 친절하시고 맛있게 잘 먹었습니다^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.21.",
+            "reply": null
+        },
+        {
+            "id": "6a0eb53934a34c42abf41590",
+            "author": "joo****",
+            "rating": null,
+            "body": "새로 생겨서 와봤는데 맛있어요 좀 늦으면 대기라길래 문열자마자 왔더니 바로 들어오긴했어요 가성비도 최곤데 고기질도 엄청 좋네요 번창하시고 오래하셔요 계속 오려구요~~^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.20.",
+            "reply": null
+        },
+        {
+            "id": "6a0ed5572fe3af0c5a25d38c",
+            "author": "리진2844",
+            "rating": null,
+            "body": "처음 와봤는데 너무 친절하시고 고기도 너무 맛있네용!! 앞으로 자주 오게 될것같네여^^",
+            "created": "5.21.목",
+            "visited_date": "2026.05.20.",
+            "reply": null
+        },
+        {
+            "id": "6a0ad0073b1819ec3dca5fb8",
+            "author": "hyu****",
+            "rating": null,
+            "body": "",
+            "created": "5.18.월",
+            "visited_date": "2026.05.16.",
+            "reply": null
+        },
+        {
+            "id": "6a087463abb133e84e41e1ad",
+            "author": "FORESEEA",
+            "rating": null,
+            "body": "고기가 진짜 맛있었어요\n특히 계란찜 너무맛있어서 두번시켜먹었네요.\n밥이 품절된건 아쉬웠지만 다음에 또 올거같아요\n옆에서 진상손님 대응하시는거보고 친절하시다고 느꼈어요. 앞으로도 쭉 운영해주심 좋겠습니당",
+            "created": "5.16.토",
+            "visited_date": "2026.05.16.",
+            "reply": null
+        },
+        {
+            "id": "6a0717970c0bb2fde1490daa",
+            "author": "kicpa94",
+            "rating": null,
+            "body": "밤늦게 왔는데 정멀  있습니다. 친절하시구요.",
+            "created": "5.15.금",
+            "visited_date": "2026.05.15.",
+            "reply": null
+        },
+        {
+            "id": "6a05a6bd65d678aa1f32367c",
+            "author": "dnj****",
+            "rating": null,
+            "body": "고기가 질이 너무 좋습니다 \n대치에 냉삼집 생겨 좋네요❣️",
+            "created": "5.14.목",
+            "visited_date": "2026.05.14.",
+            "reply": null
+        },
+        {
+            "id": "6a047db9d17b0d3844a4c099",
+            "author": "k2pier38",
+            "rating": null,
+            "body": "",
+            "created": "5.13.수",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a05aab7530243f99a6f0f54",
+            "author": "moscowsj",
+            "rating": null,
+            "body": "대기가 길긴 한데 너무 친절하시고 고기가 맛있어요!",
+            "created": "5.14.목",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a0868307be1e324bcf8151c",
+            "author": "gjr****",
+            "rating": null,
+            "body": "냉삼집 집앞에 생겨서 좋네요~고기가 맛있어요!\n종종 오겠습니다~^^",
+            "created": "5.16.토",
+            "visited_date": "2026.05.13.",
+            "reply": null
+        },
+        {
+            "id": "6a032b46cc81dc4c1bc7d9c8",
+            "author": "per****",
+            "rating": null,
+            "body": "냉삼 매니아인데 집앞에 냉삼집이 생겨서 너무 행복합니다. 사장님 감사합니다",
+            "created": "5.12.화",
+            "visited_date": "2026.05.12.",
+            "reply": null
+        },
+        {
+            "id": "6a085c1c45cf21c07913a65c",
+            "author": "rty****",
+            "rating": null,
+            "body": "때깔을 보세요\n개맛잇어요\n강추 굳굳",
+            "created": "5.16.토",
+            "visited_date": "2026.05.12.",
+            "reply": null
+        },
+        {
+            "id": "6a04338a2d4546a1b15beda4",
+            "author": "또치짱86",
+            "rating": null,
+            "body": "아이가 냉삼을 좋아하는데 동네에 생겨서 너무 좋네요♡",
+            "created": "5.13.수",
+            "visited_date": "2026.05.11.",
+            "reply": null
+        },
+        {
+            "id": "6a05bd34a16194c4892643ff",
+            "author": "wdg****",
+            "rating": null,
+            "body": "진짜 맛있어요 \n기다린 보람이 있습니다\n양도 푸짐하고 완전 만족합니다!",
+            "created": "5.14.목",
+            "visited_date": "2026.05.11.",
+            "reply": null
+        },
+        {
+            "id": "69ffe48bb19cc990b9dc3adf",
+            "author": "김김김2397",
+            "rating": null,
+            "body": "집근처에 냉삼집이 생겨서 방문해봤습니다.\n냉삼, 냉동가브리살, 항정살 세트메뉴 먹었는데 고기도 괜찮고 양도 많아서 가족 모두 맛있게 잘 먹었어요. 먹느라 바빠서 사진한장 없지만 앞으로도 자주 편하게 갈 집이 생긴것 같아 좋아요 😀",
+            "created": "5.10.일",
+            "visited_date": "2026.05.09.",
+            "reply": null
+        },
+        {
+            "id": "69ff00805a9c1171003c92e8",
+            "author": "노즈힐21",
+            "rating": null,
+            "body": "넘 맛있어서 사진도 못찍고 먹었네요^^;\n동네에 삼겹살집 생겨서 좋아요",
+            "created": "5.9.토",
+            "visited_date": "2026.05.09.",
+            "reply": null
+        }
+    ]
+}

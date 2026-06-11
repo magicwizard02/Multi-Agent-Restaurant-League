@@ -1,0 +1,30 @@
+{
+    "restaurant_info": {
+        "name": "우복금생갈비 신논현서울본점",
+        "category": "육류,고기요리",
+        "address": "서울 강남구 논현동 202",
+        "road_address": "서울 강남구 봉은사로5길 6 1층",
+        "phone": "0507-1356-7744",
+        "visitor_review_count": null,
+        "blog_review_count": 0,
+        "booking_available": false,
+        "business_hours": null,
+        "additional_info": {
+            "편의시설": [
+                "단체 이용 가능",
+                "포장",
+                "무선 인터넷",
+                "남/녀 화장실 구분",
+                "유아의자",
+                "주차"
+            ],
+            "결제수단": [],
+            "찾아오는길_및_주차안내": ""
+        }
+    },
+    "review_stats": {
+        "total_reviews_on_naver": 0,
+        "total_extracted_reviews": 0
+    },
+    "reviews": []
+}
