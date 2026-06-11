@@ -1,0 +1,132 @@
+[
+    {
+        "rank": 1,
+        "restaurant_name": "맡김",
+        "scores": {
+            "taste": 9.5,
+            "service": 9.5,
+            "cleanliness": 6.5,
+            "atmosphere": 6.5,
+            "value": 5.0
+        },
+        "total_score": 37.0,
+        "review_count": 2
+    },
+    {
+        "rank": 2,
+        "restaurant_name": "육뇽",
+        "scores": {
+            "taste": 8.6,
+            "service": 8.5,
+            "cleanliness": 6.6,
+            "atmosphere": 7.6,
+            "value": 5.4
+        },
+        "total_score": 36.7,
+        "review_count": 10
+    },
+    {
+        "rank": 3,
+        "restaurant_name": "오늘도등심",
+        "scores": {
+            "taste": 8.6,
+            "service": 7.9,
+            "cleanliness": 5.8,
+            "atmosphere": 6.5,
+            "value": 6.0
+        },
+        "total_score": 34.8,
+        "review_count": 49
+    },
+    {
+        "rank": 4,
+        "restaurant_name": "마포진짜원조최대포 본점",
+        "scores": {
+            "taste": 8.5,
+            "service": 8.3,
+            "cleanliness": 5.7,
+            "atmosphere": 6.7,
+            "value": 5.5
+        },
+        "total_score": 34.6,
+        "review_count": 46
+    },
+    {
+        "rank": 5,
+        "restaurant_name": "신수로",
+        "scores": {
+            "taste": 8.2,
+            "service": 7.9,
+            "cleanliness": 5.6,
+            "atmosphere": 6.6,
+            "value": 5.4
+        },
+        "total_score": 33.7,
+        "review_count": 49
+    },
+    {
+        "rank": 6,
+        "restaurant_name": "연남황제소갈비집",
+        "scores": {
+            "taste": 8.8,
+            "service": 7.2,
+            "cleanliness": 6.0,
+            "atmosphere": 5.8,
+            "value": 5.9
+        },
+        "total_score": 33.6,
+        "review_count": 47
+    },
+    {
+        "rank": 7,
+        "restaurant_name": "로코스비비큐 상수점",
+        "scores": {
+            "taste": 8.4,
+            "service": 6.8,
+            "cleanliness": 6.5,
+            "atmosphere": 6.1,
+            "value": 5.7
+        },
+        "total_score": 33.4,
+        "review_count": 28
+    },
+    {
+        "rank": 8,
+        "restaurant_name": "미아회관 송파직영점",
+        "scores": {
+            "taste": 8.6,
+            "service": 7.9,
+            "cleanliness": 6.1,
+            "atmosphere": 5.3,
+            "value": 5.4
+        },
+        "total_score": 33.3,
+        "review_count": 47
+    },
+    {
+        "rank": 9,
+        "restaurant_name": "청담고수 청담점",
+        "scores": {
+            "taste": 8.7,
+            "service": 7.0,
+            "cleanliness": 5.4,
+            "atmosphere": 6.5,
+            "value": 5.4
+        },
+        "total_score": 32.9,
+        "review_count": 48
+    },
+    {
+        "rank": 10,
+        "restaurant_name": "수미돈 삼성점",
+        "scores": {
+            "taste": 9.9,
+            "service": 5.4,
+            "cleanliness": 5.4,
+            "atmosphere": 6.0,
+            "value": 6.0
+        },
+        "total_score": 32.6,
+        "review_count": 50
+    }
+]
